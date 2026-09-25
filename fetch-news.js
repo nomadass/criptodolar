@@ -11,8 +11,14 @@ const ECONOMY_SOURCES = [
   { name: 'Perfil', url: 'https://www.perfil.com/feed/economia' },
 ];
 
+// CRYPTO_KEYWORDS filtra fuentes que NO son 100% cripto (ej. CriptoTendencia
+// también publica geopolítica, IA, historia, etc.), para quedarnos solo con
+// lo relevante. Fuentes 100% cripto (como CriptoNoticias) no necesitan filtro.
+const CRYPTO_KEYWORDS = /bitcoin|\bbtc\b|cripto|crypto|blockchain|ethereum|\beth\b|stablecoin|defi|binance|okx|bybit|bitget|exchange|token|altcoin|wallet|billetera|web3|nft|xrp|ripple|\bada\b|cardano|solana|dogecoin|hyperliquid|memecoin|halving|satoshi|vitalik/i;
+
 const CRYPTO_SOURCES = [
   { name: 'CriptoNoticias', url: 'https://www.criptonoticias.com/feed/' },
+  { name: 'CriptoTendencia', url: 'https://criptotendencia.com/feed/', filter: CRYPTO_KEYWORDS },
 ];
 
 const TARGET_TOTAL = 6;
@@ -82,8 +88,15 @@ async function fetchFeed(source) {
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const xml = await res.text();
-    const items = parseRss(xml).map((item) => ({ ...item, source: source.name }));
-    console.log(`OK  ${source.name}: ${items.length} items`);
+    let items = parseRss(xml).map((item) => ({ ...item, source: source.name }));
+
+    if (source.filter) {
+      const before = items.length;
+      items = items.filter((item) => source.filter.test(item.title) || source.filter.test(item.summary));
+      console.log(`OK  ${source.name}: ${before} items, ${items.length} pasaron el filtro`);
+    } else {
+      console.log(`OK  ${source.name}: ${items.length} items`);
+    }
     return items;
   } catch (err) {
     console.error(`FALLÓ ${source.name} (${source.url}): ${err.message}`);
