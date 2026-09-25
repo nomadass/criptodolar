@@ -230,6 +230,7 @@
     <button class="view-btn" data-view="invertir-ars">Invertir en ARS</button>
     <button class="view-btn" data-view="criptos">Criptomonedas</button>
     <button class="view-btn" data-view="defi">DeFi</button>
+    <button class="view-btn" data-view="noticias">Noticias</button>
   </nav>
 
   <!-- VISTA 1: COTIZACIONES -->
@@ -554,6 +555,18 @@
           </details>
         </div>
       </section>
+    </div>
+  </div>
+
+  <!-- VISTA: NOTICIAS DEL DÍA (dólar/economía + cripto, mezcladas) -->
+  <div class="view-section" id="view-noticias">
+    <h2 class="section-title" style="margin-bottom:8px;">Noticias del día</h2>
+    <p style="font-size:13px; color:var(--muted); margin-bottom:8px;">
+      Selección de titulares de dólar, economía argentina y cripto, actualizada varias veces al día.
+    </p>
+    <p style="font-size:12px; color:var(--muted); opacity:0.75; margin-bottom:20px;" id="newsUpdatedAt"></p>
+    <div class="news-list" id="newsList">
+      <p class="na-text" style="text-align:center; padding:20px;">Cargando noticias...</p>
     </div>
   </div>
 
@@ -1148,6 +1161,51 @@
     loadDefiPools();
   }
 
+  // ---------- Noticias del día (news.json generado por GitHub Actions) ----------
+  function fmtNewsDate(iso){
+    if(!iso) return '';
+    const d = new Date(iso);
+    if(isNaN(d)) return '';
+    return d.toLocaleString('es-AR', { day:'2-digit', month:'2-digit', hour:'2-digit', minute:'2-digit' });
+  }
+
+  async function loadNews(){
+    const list = $('#newsList');
+    const updatedEl = $('#newsUpdatedAt');
+    try{
+      const res = await fetch('news.json', { cache:'no-store' });
+      if(!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      const items = Array.isArray(data.items) ? data.items : [];
+
+      if(items.length === 0) throw new Error('Sin noticias disponibles');
+
+      updatedEl.textContent = data.updatedAt
+        ? `Actualizado: ${fmtNewsDate(data.updatedAt)}`
+        : '';
+
+      list.innerHTML = '';
+      items.forEach(item => {
+        const card = document.createElement('article');
+        card.className = 'news-item';
+        card.innerHTML = `
+          <div class="news-item-head">
+            <span class="news-source">${item.source || 'Fuente'}</span>
+            <span class="news-date">${fmtNewsDate(item.pubDate)}</span>
+          </div>
+          <h3 class="news-title"><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h3>
+          ${item.summary ? `<p class="news-summary">${item.summary}</p>` : ''}
+          <a href="${item.link}" target="_blank" rel="noopener" class="news-link">Leer nota completa ↗</a>
+        `;
+        list.appendChild(card);
+      });
+    } catch(err){
+      console.error('Error al cargar noticias:', err);
+      updatedEl.textContent = '';
+      list.innerHTML = `<p class="na-text" style="text-align:center; padding:20px; color:var(--venta);">No se pudieron cargar las noticias en este momento.</p>`;
+    }
+  }
+
   // ---------- Efecto Matrix (canvas) para la vista DeFi ----------
   const MATRIX_CHARS = 'アイウエオカキクケコサシスセソタチツテトナニヌネノ0123456789$€₿ETHBTCDEFIAPYTVL'.split('');
   const MATRIX_FONT_SIZE = 15;
@@ -1338,9 +1396,11 @@
   loadDolar();
   loadCryptoMarket();
   loadDefi();
+  loadNews();
   scheduleRefresh();
   setInterval(loadDolar, REFRESH_MS);
   setInterval(loadDefi, REFRESH_MS * 4); // DeFi cambia más lento, refrescamos cada ~2min
+  setInterval(loadNews, REFRESH_MS * 8); // news.json lo actualiza GitHub Actions cada pocas horas
 })();
 </script>
 </body>
