@@ -24,6 +24,10 @@ const CRYPTO_SOURCES = [
 const TARGET_TOTAL = 6;
 const USER_AGENT = 'Mozilla/5.0 (compatible; CriptoDolarNewsBot/1.0; +https://criptodolar.digital)';
 
+function escapeRegex(str) {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
 function extractTag(block, tag) {
   const re = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i');
   const match = block.match(re);
@@ -89,6 +93,14 @@ async function fetchFeed(source) {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const xml = await res.text();
     let items = parseRss(xml).map((item) => ({ ...item, source: source.name }));
+
+    // Muchos WordPress arrancan la descripción con un link de vuelta al propio
+    // sitio (ej. "CriptoTendencia" al inicio). Lo sacamos: además de ensuciar
+    // el resumen, como el NOMBRE del sitio suele contener la palabra clave
+    // ("CriptoTendencia" contiene "cripto"), hacía que el filtro de relevancia
+    // diera siempre positivo sin importar el tema real de la nota.
+    const selfMention = new RegExp(`^\\s*${escapeRegex(source.name)}\\s*`, 'i');
+    items = items.map((item) => ({ ...item, summary: item.summary.replace(selfMention, '').trim() }));
 
     if (source.filter) {
       const before = items.length;
