@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-27T19:59:34.729Z",
+  "updatedAt": "2026-09-27T23:43:27.967Z",
   "items": [
+    {
+      "title": "JP Morgan cambió su pronóstico para la Argentina en apenas cuatro días y ahora anticipa una recesión",
+      "link": "https://www.perfil.com/noticias/economia/jp-morgan-cambio-su-pronostico-para-la-argentina-en-apenas-cuatro-dias-y-ahora-anticipa-una-recesion.phtml",
+      "source": "Perfil",
+      "summary": "El banco de inversión había proyectado un crecimiento de 2,7% para 2026. Tras el dato de actividad de julio, recortó su estimación al 1,5% y prevé una contra…",
+      "pubDate": "2026-09-27T20:37:09.000Z"
+    },
+    {
+      "title": "Termómetro Bitcoin: el mercado se calienta, pero el funding mantiene la calma",
+      "link": "https://criptotendencia.com/2026/09/27/termometro-bitcoin-el-mercado-se-calienta-pero-el-funding-mantiene-la-calma/",
+      "source": "CriptoTendencia",
+      "summary": "El Termómetro Bitcoin marca 73/100, «Caliente». Los ETF sostienen el calor, pero el funding contrasta con la codicia del mercado.",
+      "pubDate": "2026-09-27T23:30:00.000Z"
+    },
     {
       "title": "Adaptarse para inspirar en un mundo transformado",
       "link": "https://noticias.perfil.com/noticias/empresas/adaptarse-para-inspirar-en-un-mundo-transformado.phtml",
@@ -9,11 +23,11 @@
       "pubDate": "2026-09-27T14:22:25.000Z"
     },
     {
-      "title": "Gobernador de California aprueba restricción a memecoins de funcionarios públicos",
-      "link": "https://www.criptonoticias.com/regulacion/gobernador-california-aprueba-restriccion-memecoins-funcionarios-publicos/",
-      "source": "CriptoNoticias",
-      "summary": "Gavin Newsom promulgó la ley que prohíbe a empleados y oficiales estatales emitir estos activos financieros desde 2027.",
-      "pubDate": "2026-09-27T19:36:05.000Z"
+      "title": "Calendario económico: bitcoin aguarda por datos e informes clave esta semana",
+      "link": "https://criptotendencia.com/2026/09/27/calendario-economico-el-bitcoin-aguarda-por-datos-e-informes-clave-esta-semana/",
+      "source": "CriptoTendencia",
+      "summary": "En esta edición del calendario económico se destacan los datos más relevantes que podrían impactar de manera directa en el precio de bitcoin.",
+      "pubDate": "2026-09-27T21:42:20.000Z"
     },
     {
       "title": "Melconian advierte sobre el precio del dólar: \"El Gobierno va a tener que elegir\"",
@@ -23,25 +37,11 @@
       "pubDate": "2026-09-27T12:15:10.000Z"
     },
     {
-      "title": "Bitcoin podría estar preparándose para otro “uptober”, según analista",
-      "link": "https://www.criptonoticias.com/mercados/bitcoin-podria-preparandose-para-otro-uptober-analista/",
-      "source": "CriptoNoticias",
-      "summary": "Ali Martinez prevé un octubre alcista para bitcoin tras un septiembre positivo y entradas récord en los ETF de la moneda digital.",
-      "pubDate": "2026-09-27T19:26:39.000Z"
-    },
-    {
-      "title": "Aumentó la importación de los productos terminados, pero también el contrabando",
-      "link": "https://www.perfil.com/noticias/economia/aumento-la-importacion-de-los-productos-terminados-pero-tambien-el-contrabando.phtml",
-      "source": "Perfil",
-      "summary": "",
-      "pubDate": "2026-09-27T05:41:03.000Z"
-    },
-    {
-      "title": "Ethereum dejará de ser una blockchain al estilo Bitcoin, asegura Vitalik Buterin",
-      "link": "https://www.criptonoticias.com/tecnologia/ethereum-dejara-blockchain-estilo-bitcoin-vitalik-buterin/",
-      "source": "CriptoNoticias",
-      "summary": "Para el cofundador de Ethereum, la red se encamina a un sistema que combina ideas de Nakamoto con nuevas herramientas criptográficas.",
-      "pubDate": "2026-09-27T19:00:49.000Z"
+      "title": "Reporte sobre las ballenas de bitcoin y su actividad comercial durante la semana",
+      "link": "https://criptotendencia.com/2026/09/27/reporte-sobre-las-ballenas-de-bitcoin-y-su-actividad-comercial-durante-la-semana-2-2/",
+      "source": "CriptoTendencia",
+      "summary": "Repasamos la actividad semanal de las ballenas de bitcoin, los movimientos en exchanges y los fuertes flujos hacia los ETF.",
+      "pubDate": "2026-09-27T21:39:44.000Z"
     }
   ]
 }
