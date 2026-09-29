@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-09-29T15:35:39.542Z",
+  "updatedAt": "2026-09-29T21:19:19.296Z",
   "items": [
     {
-      "title": "A cuánto cotiza el dólar blue hoy, martes 29 de septiembre",
-      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-martes-29-de-septiembre.phtml",
+      "title": "Crisis textil: proveedora de Portsaid, Rapsodia y Le Utthe entra en concurso de acreedores",
+      "link": "https://www.perfil.com/noticias/economia/crisis-textil-proveedora-de-portsaid-rapsodia-y-le-utthe-entra-en-concurso-de-acreedores-a40.phtml",
       "source": "Perfil",
-      "summary": "La divisa norteamericana cotiza al alza, presentando una suba $5 en el marco de la segunda rueda cambiaria de la semana.",
-      "pubDate": "2026-09-29T15:06:00.000Z"
+      "summary": "La deuda de la empresa supera los $170 millones, de acuerdo con información del Banco Central.",
+      "pubDate": "2026-09-29T20:52:00.000Z"
     },
     {
-      "title": "Chainlink ahora conecta a bancos con Swift para pagos con depósitos tokenizados",
-      "link": "https://www.criptonoticias.com/tecnologia/chainlink-conecta-bancos-swift-depositos-tokenizados/",
+      "title": "Las grandes potencias enfrentan sus bonos más altos en años",
+      "link": "https://www.criptonoticias.com/mercados/grandes-potencias-bonos-mas-altos-anos/",
       "source": "CriptoNoticias",
-      "summary": "La solución técnica utiliza el entorno de ejecución CRE para orquestar transferencias transfronterizas las 24 horas.",
-      "pubDate": "2026-09-29T15:15:34.000Z"
+      "summary": "Los rendimientos de los bonos en EE. UU. y otras potencias alcanzan máximos de décadas impulsados por tensiones energéticas.",
+      "pubDate": "2026-09-29T20:48:22.000Z"
     },
     {
-      "title": "A cuánto cotiza el euro blue hoy, martes 29 de septiembre",
-      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-martes-29-de-septiembre.phtml",
+      "title": "El modelo de Milei en crisis: qué dicen Cachanosky, Rodríguez, Giacomini y Maslatón",
+      "link": "https://www.perfil.com/noticias/nea/el-modelo-de-milei-en-crisis-que-dicen-cachanosky-rodriguez-giacomini-y-maslaton.phtml",
       "source": "Perfil",
-      "summary": "La divisa europea informal cotiza a la baja, presentando una caída de $6 en el marco de la segunda rueda cambiaria de la semana.",
-      "pubDate": "2026-09-29T15:03:00.000Z"
+      "summary": "Los economistas analizan la actual coyuntura económica y explican por qué cuestionan el modelo económico actual.",
+      "pubDate": "2026-09-29T20:20:00.000Z"
     },
     {
-      "title": "Apple lanza actualización de emergencia para frenar ataque a wallets de criptomonedas",
-      "link": "https://www.criptonoticias.com/seguridad-bitcoin/apple-lanza-actualizacion-emergencia-frenar-ataque-wallets-criptomonedas/",
-      "source": "CriptoNoticias",
-      "summary": "El fallo permitía la ejecución remota de un código a través del procesamiento de archivos maliciosos en los sistemas operativos iOS y macOS.",
-      "pubDate": "2026-09-29T14:39:18.000Z"
+      "title": "Bitcoin hoy: BTC mantiene el nuevo balance y respeta la zona baja",
+      "link": "https://criptotendencia.com/2026/09/29/bitcoin-hoy-btc-mantiene-el-nuevo-balance-y-respeta-la-zona-baja-2/",
+      "source": "CriptoTendencia",
+      "summary": "Bitcoin continúa dentro del nuevo balance tras la ruptura del rango anterior. Analizamos los principales niveles a vigilar.",
+      "pubDate": "2026-09-29T20:43:25.000Z"
     },
     {
-      "title": "Se estima un récord histórico de exportaciones: “Empieza a verse el principio de la maduración de las inversiones”",
-      "link": "https://www.perfil.com/noticias/canal-e/se-estima-un-record-historico-de-exportaciones-empieza-a-verse-el-principio-de-la-maduracion-de-las-inversiones.phtml",
+      "title": "El dólar en Córdoba: a cuánto cotiza este martes 29 de septiembre",
+      "link": "https://www.perfil.com/noticias/cordoba/cordoba-dolar-hoy-dolar-blue-hoy-cotizacion-29-de-septiembre-290926.phtml",
       "source": "Perfil",
-      "summary": "Así lo expresó el presidente de la Cámara de Exportadores de la República Argentina, Fernando Landa, quien luego anticipó: “Vamos a encontrarnos con un récor…",
-      "pubDate": "2026-09-29T14:37:17.000Z"
+      "summary": "Este martes 29 de septiembre el dólar oficial en el Banco Nación se vende a 1.495 pesos y cotiza a 1.545 pesos para la compra.",
+      "pubDate": "2026-09-29T19:38:00.000Z"
     },
     {
-      "title": "Bybit restringe el soporte al peso mexicano en su plataforma",
-      "link": "https://www.criptonoticias.com/comunidad/bybit-restringe-soporte-peso-mexicano-plataforma/",
+      "title": "La capa base: Bitcoin no falla, lo que falla es todo lo que le construimos encima",
+      "link": "https://www.criptonoticias.com/tecnologia/capa-base-bitcoin-no-falla-lo-que-falla-construimos-encima/",
       "source": "CriptoNoticias",
-      "summary": "El exchange convertirá automáticamente los saldos remanentes en pesos a USDT a partir de mañana 30 de septiembre de 2026.",
-      "pubDate": "2026-09-29T14:22:25.000Z"
+      "summary": "Taproot, Lightning, vaults e inteligencia artificial multiplican los fallos de software, pero la capa base sigue intacta.",
+      "pubDate": "2026-09-29T20:40:03.000Z"
     }
   ]
 }
