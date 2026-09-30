@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-09-30T15:46:33.505Z",
+  "updatedAt": "2026-09-30T21:20:40.800Z",
   "items": [
     {
-      "title": "El repunte bursátil de Argentina se limita a las empresas petroleras",
-      "link": "https://www.perfil.com/noticias/bloomberg/bc-el-repunte-bursatil-de-argentina-se-limita-a-las-empresas-petroleras.phtml",
-      "source": "Perfil",
-      "summary": "El mercado bursátil argentino está empezando a reflejar el crecimiento desigual de la economía bajo la presidencia de Javier Milei, ya que las acciones del s…",
-      "pubDate": "2026-09-30T15:20:00.000Z"
-    },
-    {
-      "title": "Trading, bitcoin y ladrillos: así se vivió Take Profit Conference 26 en Buenos Aires",
-      "link": "https://www.criptonoticias.com/comunidad/eventos/trading-bitcoin-ladrillos-take-profit-conference-buenos-aires/",
-      "source": "CriptoNoticias",
-      "summary": "Filas, salas llenas y charlas sobre renta fija, stablecoins y regulación marcaron una jornada que mezcló lo mejor de ambos mercados.",
-      "pubDate": "2026-09-30T15:27:48.000Z"
-    },
-    {
-      "title": "A cuánto cotiza el dólar blue hoy, miércoles 30 de septiembre",
+      "title": "El dólar blue se ubica en los $1.560 este miércoles 30 de septiembre",
       "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-miercoles-30-de-septiembre.phtml",
       "source": "Perfil",
-      "summary": "La divisa norteamericana cotiza a la baja, presentando una caída de $5 en la primera rueda cambiaria de la semana respecto a ayer.",
-      "pubDate": "2026-09-30T14:39:00.000Z"
+      "summary": "La divisa norteamericana cerró a la baja, presentando una caída de $5 en la tercera rueda cambiaria de la semana",
+      "pubDate": "2026-09-30T18:55:00.000Z"
     },
     {
-      "title": "¿Por qué THORChain sigue operando tras canalizar criptomonedas robadas por Lazarus?",
-      "link": "https://www.criptonoticias.com/regulacion/por-que-thorchain-canalizar-criptomonedas-robadas-lazarus/",
+      "title": "Petrobras lleva sus combustibles renovables a la red Cardano",
+      "link": "https://www.criptonoticias.com/comunidad/adopcion/petrobras-combustibles-renovables-red-cardano-trazabilidad/",
       "source": "CriptoNoticias",
-      "summary": "THORChain mueve criptoactivos entre redes sin intermediarios y EE. UU. blindó a los creadores de software, pero no a quienes operan la red.",
-      "pubDate": "2026-09-30T15:26:37.000Z"
+      "summary": "La petrolera brasileña desarrolla dos aplicaciones con Cardano para hacer trazables los atributos ambientales del SAF y el Diesel R.",
+      "pubDate": "2026-09-30T21:15:59.000Z"
     },
     {
-      "title": "A cuánto cotiza el euro blue hoy, miércoles 30 de septiembre",
+      "title": "Impacto en la inversión real: cayó 5,4% en agosto",
+      "link": "https://www.perfil.com/noticias/nea/impacto-en-la-inversion-real-cayo-54-en-agosto.phtml",
+      "source": "Perfil",
+      "summary": "La inversión real acumula un retroceso de 7,9% en ocho meses, pese a los continuos anuncios de nuevos proyectos.",
+      "pubDate": "2026-09-30T18:53:00.000Z"
+    },
+    {
+      "title": "ETH enfrenta el techo de USD 2.800 mientras se enfría el impulso institucional",
+      "link": "https://www.criptonoticias.com/mercados/eth-resistencia-demanda-instituciones-ethereum/",
+      "source": "CriptoNoticias",
+      "summary": "Ethereum conserva una estructura alcista, pero la pérdida de fuerza de los flujos institucionales deja al precio atrapado bajo una resistencia clave.",
+      "pubDate": "2026-09-30T20:56:48.000Z"
+    },
+    {
+      "title": "El euro blue sobrepasó los $1.850 este miércoles 30 de septiembre",
       "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-miercoles-30-de-septiembre.phtml",
       "source": "Perfil",
-      "summary": "La divisa europea informal cotiza a la baja, presentando una caída de $16 en el marco de la tercera rueda cambiaria de la semana.",
-      "pubDate": "2026-09-30T14:35:00.000Z"
+      "summary": "La divisa europea informal cerró a la baja, presentando una caída de $16 en el marco de la tercera rueda cambiaria de la semana.",
+      "pubDate": "2026-09-30T18:47:00.000Z"
     },
     {
-      "title": "Se lanzó stablecoin del dólar bajo regulación MiCA",
-      "link": "https://www.criptonoticias.com/mercados/lanzo-stablecoin-dolar-regulacion-mica/",
+      "title": "Arbitrum ya convierte adopción en ingresos; el desafío es que ARB capture ese valor",
+      "link": "https://www.criptonoticias.com/mercados/arbitrum-adopcion-ingresos-arb-precio/",
       "source": "CriptoNoticias",
-      "summary": "La empresa AllUnity emite el activo bajo el ticker USDAU en conformidad con la regulación de la Unión Europea.",
-      "pubDate": "2026-09-30T14:37:46.000Z"
+      "summary": "La red suma ingresos con activos tokenizados, Robinhood Chain y nuevas tarifas, pero ARB aún no tiene un mecanismo directo de captura de valor.",
+      "pubDate": "2026-09-30T20:13:53.000Z"
     }
   ]
 }
