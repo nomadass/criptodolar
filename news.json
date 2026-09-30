@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-09-29T21:19:19.296Z",
+  "updatedAt": "2026-09-30T15:46:33.505Z",
   "items": [
     {
-      "title": "Crisis textil: proveedora de Portsaid, Rapsodia y Le Utthe entra en concurso de acreedores",
-      "link": "https://www.perfil.com/noticias/economia/crisis-textil-proveedora-de-portsaid-rapsodia-y-le-utthe-entra-en-concurso-de-acreedores-a40.phtml",
+      "title": "El repunte bursátil de Argentina se limita a las empresas petroleras",
+      "link": "https://www.perfil.com/noticias/bloomberg/bc-el-repunte-bursatil-de-argentina-se-limita-a-las-empresas-petroleras.phtml",
       "source": "Perfil",
-      "summary": "La deuda de la empresa supera los $170 millones, de acuerdo con información del Banco Central.",
-      "pubDate": "2026-09-29T20:52:00.000Z"
+      "summary": "El mercado bursátil argentino está empezando a reflejar el crecimiento desigual de la economía bajo la presidencia de Javier Milei, ya que las acciones del s…",
+      "pubDate": "2026-09-30T15:20:00.000Z"
     },
     {
-      "title": "Las grandes potencias enfrentan sus bonos más altos en años",
-      "link": "https://www.criptonoticias.com/mercados/grandes-potencias-bonos-mas-altos-anos/",
+      "title": "Trading, bitcoin y ladrillos: así se vivió Take Profit Conference 26 en Buenos Aires",
+      "link": "https://www.criptonoticias.com/comunidad/eventos/trading-bitcoin-ladrillos-take-profit-conference-buenos-aires/",
       "source": "CriptoNoticias",
-      "summary": "Los rendimientos de los bonos en EE. UU. y otras potencias alcanzan máximos de décadas impulsados por tensiones energéticas.",
-      "pubDate": "2026-09-29T20:48:22.000Z"
+      "summary": "Filas, salas llenas y charlas sobre renta fija, stablecoins y regulación marcaron una jornada que mezcló lo mejor de ambos mercados.",
+      "pubDate": "2026-09-30T15:27:48.000Z"
     },
     {
-      "title": "El modelo de Milei en crisis: qué dicen Cachanosky, Rodríguez, Giacomini y Maslatón",
-      "link": "https://www.perfil.com/noticias/nea/el-modelo-de-milei-en-crisis-que-dicen-cachanosky-rodriguez-giacomini-y-maslaton.phtml",
+      "title": "A cuánto cotiza el dólar blue hoy, miércoles 30 de septiembre",
+      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-miercoles-30-de-septiembre.phtml",
       "source": "Perfil",
-      "summary": "Los economistas analizan la actual coyuntura económica y explican por qué cuestionan el modelo económico actual.",
-      "pubDate": "2026-09-29T20:20:00.000Z"
+      "summary": "La divisa norteamericana cotiza a la baja, presentando una caída de $5 en la primera rueda cambiaria de la semana respecto a ayer.",
+      "pubDate": "2026-09-30T14:39:00.000Z"
     },
     {
-      "title": "Bitcoin hoy: BTC mantiene el nuevo balance y respeta la zona baja",
-      "link": "https://criptotendencia.com/2026/09/29/bitcoin-hoy-btc-mantiene-el-nuevo-balance-y-respeta-la-zona-baja-2/",
-      "source": "CriptoTendencia",
-      "summary": "Bitcoin continúa dentro del nuevo balance tras la ruptura del rango anterior. Analizamos los principales niveles a vigilar.",
-      "pubDate": "2026-09-29T20:43:25.000Z"
-    },
-    {
-      "title": "El dólar en Córdoba: a cuánto cotiza este martes 29 de septiembre",
-      "link": "https://www.perfil.com/noticias/cordoba/cordoba-dolar-hoy-dolar-blue-hoy-cotizacion-29-de-septiembre-290926.phtml",
-      "source": "Perfil",
-      "summary": "Este martes 29 de septiembre el dólar oficial en el Banco Nación se vende a 1.495 pesos y cotiza a 1.545 pesos para la compra.",
-      "pubDate": "2026-09-29T19:38:00.000Z"
-    },
-    {
-      "title": "La capa base: Bitcoin no falla, lo que falla es todo lo que le construimos encima",
-      "link": "https://www.criptonoticias.com/tecnologia/capa-base-bitcoin-no-falla-lo-que-falla-construimos-encima/",
+      "title": "¿Por qué THORChain sigue operando tras canalizar criptomonedas robadas por Lazarus?",
+      "link": "https://www.criptonoticias.com/regulacion/por-que-thorchain-canalizar-criptomonedas-robadas-lazarus/",
       "source": "CriptoNoticias",
-      "summary": "Taproot, Lightning, vaults e inteligencia artificial multiplican los fallos de software, pero la capa base sigue intacta.",
-      "pubDate": "2026-09-29T20:40:03.000Z"
+      "summary": "THORChain mueve criptoactivos entre redes sin intermediarios y EE. UU. blindó a los creadores de software, pero no a quienes operan la red.",
+      "pubDate": "2026-09-30T15:26:37.000Z"
+    },
+    {
+      "title": "A cuánto cotiza el euro blue hoy, miércoles 30 de septiembre",
+      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-miercoles-30-de-septiembre.phtml",
+      "source": "Perfil",
+      "summary": "La divisa europea informal cotiza a la baja, presentando una caída de $16 en el marco de la tercera rueda cambiaria de la semana.",
+      "pubDate": "2026-09-30T14:35:00.000Z"
+    },
+    {
+      "title": "Se lanzó stablecoin del dólar bajo regulación MiCA",
+      "link": "https://www.criptonoticias.com/mercados/lanzo-stablecoin-dolar-regulacion-mica/",
+      "source": "CriptoNoticias",
+      "summary": "La empresa AllUnity emite el activo bajo el ticker USDAU en conformidad con la regulación de la Unión Europea.",
+      "pubDate": "2026-09-30T14:37:46.000Z"
     }
   ]
 }
