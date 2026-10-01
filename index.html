@@ -224,6 +224,7 @@
 
 <main>
   <!-- NAVEGACIÓN SUPERIOR -->
+  <div id="navSentinel" aria-hidden="true" style="height:1px;"></div>
   <nav class="view-nav">
     <button class="view-btn active" data-view="cotizaciones">Cotizaciones</button>
     <button class="view-btn" data-view="invertir">Invertir en Cripto USD</button>
@@ -614,6 +615,39 @@
 
 <script>
 (function(){
+  // ---------- Nav fija debajo del header ----------
+  // Medimos la altura real del header (cambia en mobile, donde se apila en 2 líneas)
+  // y la guardamos en una variable CSS para que la nav se pegue justo debajo, sin huecos.
+  (function setupStickyNav(){
+    const header = document.querySelector('header');
+    const nav = document.querySelector('.view-nav');
+    const sentinel = document.getElementById('navSentinel');
+    if(!header || !nav) return;
+
+    function updateHeaderHeight(){
+      document.documentElement.style.setProperty('--header-h', header.offsetHeight + 'px');
+    }
+    updateHeaderHeight();
+    window.addEventListener('resize', updateHeaderHeight);
+
+    // Le agrega una sombra sutil a la nav solo cuando está efectivamente pegada
+    // (no todo el tiempo), usando un sentinel invisible justo arriba de la nav.
+    if(sentinel && 'IntersectionObserver' in window){
+      let observer = null;
+      function setupObserver(){
+        if(observer) observer.disconnect();
+        const headerH = header.offsetHeight;
+        observer = new IntersectionObserver(
+          ([entry]) => nav.classList.toggle('is-stuck', !entry.isIntersecting),
+          { rootMargin: `-${headerH + 1}px 0px 0px 0px`, threshold: 0 }
+        );
+        observer.observe(sentinel);
+      }
+      setupObserver();
+      window.addEventListener('resize', setupObserver);
+    }
+  })();
+
   const MAIN_EXCHANGES = [
     { id:'binancep2p', name:'Binance', sub:'P2P', color:'#f0b90b', domain:'binance.com', url:'https://binance.com', yieldPct: { usdt: '3,5%', usdc: '3,0%', dai: '2,8%' } },
     { id:'bybitp2p',   name:'Bybit',   sub:'P2P', color:'#f7a600', domain:'bybit.com', url:'https://www.bybit.com/invite?ref=2DLEPK&medium=referral&utm_campaign=evergreen&share_to=post', isRef: true, yieldPct: { usdt: '4,0%', usdc: '3,8%', dai: 'N/A' } },
