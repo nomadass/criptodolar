@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-04T20:00:06.825Z",
+  "updatedAt": "2026-10-04T23:53:37.804Z",
   "items": [
+    {
+      "title": "La inflación de septiembre fue 2,1% y se acelera: la canasta básica ya supera los $2 millones",
+      "link": "https://www.perfil.com/noticias/cordoba/la-inflacion-de-septiembre-fue-21-y-se-acelera-la-canasta-basica-ya-supera-los-2-millones.phtml",
+      "source": "Perfil",
+      "summary": "El Informe Económico y Social del IETSE muestra que el índice cortó la desaceleración tras el 1,8% de agosto. Las ventas minoristas de alimentos cayeron 8,3%…",
+      "pubDate": "2026-10-04T22:00:24.000Z"
+    },
+    {
+      "title": "Termómetro Bitcoin: el precio sube, pero el mercado pierde temperatura",
+      "link": "https://criptotendencia.com/2026/10/04/termometro-bitcoin-el-precio-sube-pero-el-mercado-pierde-temperatura/",
+      "source": "CriptoTendencia",
+      "summary": "Bitcoin sube a $86.431, pero el Termómetro Bitcoin baja a 58/100 «Neutral». Los ETF se enfrían y el impulso pierde velocidad.",
+      "pubDate": "2026-10-04T22:54:00.000Z"
+    },
     {
       "title": "Economía en alerta: anticipo de tapa de NOTICIAS",
       "link": "https://noticias.perfil.com/noticias/economia/anticipo-de-tapa-de-noticias-economia-en-alerta.phtml",
@@ -9,11 +23,11 @@
       "pubDate": "2026-10-04T12:56:52.000Z"
     },
     {
-      "title": "Calendario económico: el bitcoin se prepara para una semana cargada de datos de alto interés",
-      "link": "https://criptotendencia.com/2026/10/04/calendario-economico-el-bitcoin-se-prepara-para-una-semana-cargada-de-datos-de-alto-interes/",
-      "source": "CriptoTendencia",
-      "summary": "En esta nueva edición del calendario económico se repasan los datos y elementos que podrían impactar en el precio de bitcoin.",
-      "pubDate": "2026-10-04T19:14:09.000Z"
+      "title": "Ripple apunta a la privacidad como clave para llevar XRPL a más bancos",
+      "link": "https://www.criptonoticias.com/comunidad/adopcion/ripple-apunta-privacidad-clave-para-llevar-xrpl-bancos/",
+      "source": "CriptoNoticias",
+      "summary": "El modelo también contempla restringir ciertas actividades de DeFi a participantes que cumplan requisitos de autorización.",
+      "pubDate": "2026-10-04T21:14:18.000Z"
     },
     {
       "title": "FAL: cómo se deberá declarar e ingresar la contribución",
@@ -23,25 +37,11 @@
       "pubDate": "2026-10-04T05:30:41.000Z"
     },
     {
-      "title": "Desaparecen más de USD 6 millones de una bóveda anónima en Base",
-      "link": "https://www.criptonoticias.com/seguridad-bitcoin/desaparecen-mas-usd-6-millones-boveda-anonima-base/",
+      "title": "Bitcoin encara octubre con cuatro frentes que amenazan su repunte",
+      "link": "https://www.criptonoticias.com/mercados/bitcoin-encara-octubre-cuatro-frentes-amenazan-repunte/",
       "source": "CriptoNoticias",
-      "summary": "El incidente dejó visibles los contratos y movimientos en cadena, pero ocultó la identidad de sus operadores.",
-      "pubDate": "2026-10-04T19:12:35.000Z"
-    },
-    {
-      "title": "El ‘puente fantasma’ que Milei prometió entre Chaco y Corrientes",
-      "link": "https://www.perfil.com/noticias/economia/el-puente-fantasma-que-milei-prometio-entre-chaco-y-corrientes.phtml",
-      "source": "Perfil",
-      "summary": "En octubre del año pasado, Milei prometió que los privados iban a construir el nuevo puente Chaco-Corrientes. A un año, no hubo avances. En noviembre de 2023…",
-      "pubDate": "2026-10-04T05:28:58.000Z"
-    },
-    {
-      "title": "TOKEN2049 más allá del escenario: cinco side events para seguir de cerca en Singapur",
-      "link": "https://criptotendencia.com/2026/10/04/token2049-mas-alla-del-escenario-cinco-side-events-para-seguir-de-cerca-en-singapur/",
-      "source": "CriptoTendencia",
-      "summary": "Cinco side events de TOKEN2049 Singapur para seguir: OKX Now, DAS Asia, Circle House, Solana Capital Forum y Ethereum Ecosystem Summit.",
-      "pubDate": "2026-10-04T18:59:00.000Z"
+      "summary": "El mercado necesita nuevas entradas de capital para que el historial favorable de octubre se traduzca en un avance sostenido.",
+      "pubDate": "2026-10-04T20:32:43.000Z"
     }
   ]
 }
