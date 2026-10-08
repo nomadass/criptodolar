@@ -158,7 +158,7 @@
   .dolar-card .vals{display:flex; gap:14px;}
   .dolar-card .valblock{display:flex; flex-direction:column; gap:2px;}
   .dolar-card .valblock .k{font-size:10.5px; color:var(--muted);}
-  .dolar-card .valblock .v{font-family:'JetBrains Mono', monospace; font-size:17px; font-weight:600;}
+  .dolar-card .valblock .v{font-family:'JetBrains Mono', monospace; font-size:17px; font-weight:700;}
   .dolar-card .valblock.compra .v{color:var(--compra);}
   .dolar-card .valblock.venta .v{color:var(--venta);}
 
@@ -349,7 +349,7 @@
   .crypto-icon{width:24px; height:24px; border-radius:50%; object-fit:contain; transition:transform .2s var(--ease); background:#fff;}
   .crypto-table tr:hover .crypto-icon{transform:scale(1.12);}
   .crypto-symbol{font-size:11.5px; color:var(--muted); text-transform:uppercase; margin-left:4px;}
-  .crypto-price{font-family:'JetBrains Mono', monospace; font-weight:600;}
+  .crypto-price{font-family:'JetBrains Mono', monospace; font-weight:700;}
   .crypto-change{font-family:'JetBrains Mono', monospace; font-weight:500;}
   .crypto-change.positive{color:var(--compra);}
   .crypto-change.negative{color:var(--venta);}
