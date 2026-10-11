@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-10T20:31:33.966Z",
+  "updatedAt": "2026-10-11T00:10:25.833Z",
   "items": [
+    {
+      "title": "Maslatón: \"Hay solo dos personas que saben que este plan económico fracasó: Caputo y Bausili\"",
+      "link": "https://www.perfil.com/noticias/nea/maslaton-hay-solo-dos-personas-que-saben-que-este-plan-economico-fracaso-caputo-y-bausili.phtml",
+      "source": "Perfil",
+      "summary": "\"El genio de los genios de las finanzas, Caputo, otra vez haciendo un desastre\", aseguró el analista financiero.",
+      "pubDate": "2026-10-10T23:40:00.000Z"
+    },
+    {
+      "title": "XRP Ledger corrige un fallo que podía crear XRP fuera de su límite de emisión",
+      "link": "https://criptotendencia.com/2026/10/10/xrp-ledger-corrige-un-fallo-que-podia-crear-xrp-fuera-de-su-limite-de-emision/",
+      "source": "CriptoTendencia",
+      "summary": "XRP Ledger corrigió un fallo que podía crear XRP de forma indebida. Los desarrolladores no hallaron indicios de uso en la red pública.",
+      "pubDate": "2026-10-10T21:03:00.000Z"
+    },
     {
       "title": "Alberto Ades habló del dólar (y tal vez \"los mejores 18 meses de la historia\" son sin Caputo)",
       "link": "https://www.perfil.com/noticias/economia/alberto-ades-hablo-del-dolar-y-tal-vez-los-mejores-18-meses-de-la-historia-son-sin-caputo.phtml",
@@ -28,20 +42,6 @@
       "source": "CriptoNoticias",
       "summary": "El sospechoso convierte stablecoins y usa mezcladores mientras Binance no confirma si bloqueará las cuentas señaladas por el rastreo on-chain. La nota Hacker…",
       "pubDate": "2026-10-10T18:51:20.000Z"
-    },
-    {
-      "title": "Región Centro: el libro que reconstruye los orígenes de la alianza entre Córdoba, Santa Fe y Entre Ríos",
-      "link": "https://www.perfil.com/noticias/cordoba/region-centro-el-libro-que-reconstruye-los-origenes-de-la-alianza-entre-cordoba-santa-fe-y-entre-rios.phtml",
-      "source": "Perfil",
-      "summary": "La presentación se realizó en la Bolsa de Comercio de Córdoba. La obra de Marcela Aspell, Juan Carlos Palmero, Raúl Hermida y Antonio María Hernández recuper…",
-      "pubDate": "2026-10-10T13:31:04.000Z"
-    },
-    {
-      "title": "TRON prueba firmas poscuánticas en testnet, pero aún depende de una votación",
-      "link": "https://www.criptonoticias.com/tecnologia/tron-prueba-firmas-poscuanticas-testnet-mainnet-depende-votacion/",
-      "source": "CriptoNoticias",
-      "summary": "Según Justin Sun, la red puede pasar a mainnet de inmediato. La propuesta técnica reconoce transacciones 9,5 veces más pesadas y exige votación. La nota TRON…",
-      "pubDate": "2026-10-10T17:44:56.000Z"
     }
   ]
 }
