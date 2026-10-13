@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-10-13T16:50:16.353Z",
+  "updatedAt": "2026-10-13T21:46:46.874Z",
   "items": [
     {
-      "title": "ARCA prorrogó hasta el 30 de octubre la declaración jurada de Ganancias: qué cambia para contribuyentes y pymes",
-      "link": "https://www.perfil.com/noticias/canal-e/arca-prorrogo-hasta-el-30-de-octubre-la-declaracion-jurada-de-ganancias-que-cambia-para-contribuyentes-y-pymes.phtml",
+      "title": "La inflación de Córdoba fue del 1,4% en septiembre y quedó por debajo de la nacional",
+      "link": "https://www.perfil.com/noticias/cordoba/la-inflacion-de-cordoba-fue-del-14-en-septiembre-y-quedo-por-debajo-de-la-nacional.phtml",
       "source": "Perfil",
-      "summary": "En base a la explicación de la contadora tributarista, Elisabet Piacentini, los contribuyentes “van a poder presentar esta declaración jurada con todos los b…",
-      "pubDate": "2026-10-13T16:24:12.000Z"
+      "summary": "El Índice de Precios al Consumidor de Córdoba acumuló un aumento del 21,7% en los primeros nueve meses de 2026 y registró una variación interanual del 31,6%.…",
+      "pubDate": "2026-10-13T20:26:10.000Z"
     },
     {
-      "title": "Hyperliquid se desploma y vuelve a poner a prueba los $80",
-      "link": "https://criptotendencia.com/2026/10/13/hyperliquid-se-desploma-y-vuelve-a-poner-a-prueba-los-80-2/",
+      "title": "Bitcoin hoy: BTC rebota con fuerza, pero pierde impulso antes del IPC",
+      "link": "https://criptotendencia.com/2026/10/13/bitcoin-hoy-btc-rebota-con-fuerza-pero-pierde-impulso-antes-del-ipc-2/",
       "source": "CriptoTendencia",
-      "summary": "Hyperliquid enfrenta nuevas presiones bajistas mientras los movimientos de HYPE y las señales técnicas mantienen en riesgo su recuperación.",
-      "pubDate": "2026-10-13T16:41:08.000Z"
+      "summary": "Bitcoin rebota con fuerza desde una zona clave, pero pierde impulso durante la jornada. Niveles a vigilar antes del IPC.",
+      "pubDate": "2026-10-13T20:57:59.000Z"
     },
     {
       "title": "Motosierra sin fin: cuáles fueron los sectores más afectados en septiembre",
       "link": "https://www.perfil.com/noticias/nea/motosierra-sin-fin-cuales-fueron-los-sectores-mas-afectados-en-septiembre.phtml",
       "source": "Perfil",
       "summary": "La obra pública encabezó la baja con una caída del 27,1% en términos reales.",
-      "pubDate": "2026-10-13T16:21:09.000Z"
+      "pubDate": "2026-10-13T20:25:00.000Z"
     },
     {
-      "title": "El mercado de criptomonedas resiste la sacudida de la bolsa surcoreana",
-      "link": "https://criptotendencia.com/2026/10/13/el-mercado-de-criptomonedas-resiste-la-sacudida-de-la-bolsa-surcoreana-2/",
-      "source": "CriptoTendencia",
-      "summary": "El mercado de criptomonedas resiste el desplome de la bolsa surcoreana, mientras bitcoin enfrenta una semana clave por la inflación.",
-      "pubDate": "2026-10-13T15:25:27.000Z"
-    },
-    {
-      "title": "Cuentapropismo en Argentina: “Hay un incremento fuerte del empleo no registrado o de baja calidad”",
-      "link": "https://www.perfil.com/noticias/canal-e/cuentapropismo-en-argentina-hay-un-incremento-fuerte-del-empleo-no-registrado-o-de-baja-calidad.phtml",
-      "source": "Perfil",
-      "summary": "Así lo expresó el economista, Federico Glustein, quien luego añadió: “El problema en la Argentina hoy es que se perdieron alrededor de 429.000 puestos de tra…",
-      "pubDate": "2026-10-13T16:11:11.000Z"
-    },
-    {
-      "title": "Esto es todo lo que debes saber hasta ahora sobre el ataque a Ledger",
-      "link": "https://www.criptonoticias.com/seguridad-bitcoin/todo-debes-saber-ataque-ledger/",
+      "title": "La predicción involuntaria de ZachXBT ¿anunció la debacle de las hardware wallet?",
+      "link": "https://www.criptonoticias.com/tecnologia/prediccion-involuntaria-zachxbt-anuncio-debacle-hardware-wallet/",
       "source": "CriptoNoticias",
-      "summary": "Se trata de un sofisticado ataque que pone en jaque los cimientos mismos de la autocustodia de bitcoin y las criptomonedas. La nota Esto es todo lo que debes…",
-      "pubDate": "2026-10-13T15:14:34.000Z"
+      "summary": "Coldcard, Ledger y otros fabricantes acumularon problemas que ponen en duda una de las principales promesas de la autocustodia. La nota La predicción involun…",
+      "pubDate": "2026-10-13T20:06:15.000Z"
+    },
+    {
+      "title": "Una familia necesitó $1.632.000 para no ser pobre en septiembre, según el INDEC",
+      "link": "https://www.perfil.com/noticias/economia/una-familia-necesito-1632505-para-no-ser-pobre-en-septiembre-segun-el-indec-a40.phtml",
+      "source": "Perfil",
+      "summary": "Tanto la canasta básica total como la alimentaria, que definen los umbrales de pobreza e indigencia, aumentaron por debajo de la inflación mensual.",
+      "pubDate": "2026-10-13T20:14:43.000Z"
+    },
+    {
+      "title": "BlackRock no controla Bitcoin: su poder está en la puerta de entrada",
+      "link": "https://www.criptonoticias.com/mercados/blackrock-control-bitcoin-poder-entrada/",
+      "source": "CriptoNoticias",
+      "summary": "IBIT, el fondo cotizado al contado (ETF) de bitcoin, concentra hoy una de las principales puertas de acceso al activo. La nota BlackRock no controla Bitcoin:…",
+      "pubDate": "2026-10-13T19:36:33.000Z"
     }
   ]
 }
