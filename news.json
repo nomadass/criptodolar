@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-10-14T20:32:21.021Z",
+  "updatedAt": "2026-10-14T23:48:09.427Z",
   "items": [
     {
       "title": "Rubinstein sobre los dichos de Milei: \"Los 125 mil millones es una fantasía que no tiene ningún asidero\"",
       "link": "https://www.perfil.com/noticias/nea/rubinstein-sobre-los-dichos-de-milei-los-125-mil-millones-es-una-fantasia-que-no-tiene-ningun-asidero.phtml",
       "source": "Perfil",
       "summary": "\"Si vos tenés la ayuda de Bessent de 20 mil millones (de dólares), que puede ser más llegado el caso, yo creo que ahí el mercado se queda tranquilo\", aseguró…",
-      "pubDate": "2026-10-14T20:08:00.000Z"
+      "pubDate": "2026-10-14T23:06:00.000Z"
     },
     {
-      "title": "Ledger inspecciona tiendas de revendedores tras reportes de wallets adulteradas",
-      "link": "https://www.criptonoticias.com/seguridad-bitcoin/ledger-no-robos-wallets-manipuladas-europa/",
+      "title": "Las grandes empresas quieren adelantar la defensa cuántica de Bitcoin",
+      "link": "https://www.criptonoticias.com/tecnologia/grandes-empresas-quieren-adelantar-defensa-cuantica-bitcoin/",
       "source": "CriptoNoticias",
-      "summary": "La empresa inspeccionó tiendas en Alemania y aseguró que no se registraron pérdidas de fondos vinculadas a equipos con implantes en la región. La nota Ledger…",
-      "pubDate": "2026-10-14T19:53:07.000Z"
+      "summary": "Coinbase propone evaluar firmas poscuánticas, diseños híbridos y alternativas para los fondos que no migren. La nota Las grandes empresas quieren adelantar l…",
+      "pubDate": "2026-10-14T23:04:43.000Z"
+    },
+    {
+      "title": "La estabilidad de precios frente a la competitividad industrial: en RDEco debatieron las prioridades del programa económico",
+      "link": "https://www.perfil.com/noticias/masperfil/dolar-atrasado-e-inflacion-el-debate-sobre-la-competitividad-y-el-crecimiento-en-argentina.phtml",
+      "source": "Perfil",
+      "summary": "En Ronda de Economistas (RDEco), por +Perfil, Gonzalo Carrera, Santiago Llull y Matías Wilson analizaron las prioridades del programa económico y la tensión…",
+      "pubDate": "2026-10-14T23:05:06.000Z"
+    },
+    {
+      "title": "Solana se prepara para cambiar su mecanismo de consenso",
+      "link": "https://www.criptonoticias.com/tecnologia/solana-se-prepara-cambiar-mecanismo-consenso/",
+      "source": "CriptoNoticias",
+      "summary": "Alpenglow cambiará el consenso de Solana para acelerar la finalidad de las transacciones, con nuevos requisitos para validadores e indexadores. La nota Solan…",
+      "pubDate": "2026-10-14T22:27:10.000Z"
     },
     {
       "title": "Crece la morosidad en empresas: casi 59.000 compañías tienen problemas para pagar sus deudas",
       "link": "https://www.perfil.com/noticias/nea/crece-la-morosidad-en-empresas-casi-59000-companias-tienen-problemas-para-pagar-sus-deudas.phtml",
       "source": "Perfil",
       "summary": "En septiembre, unas 1.937 ingresaron en mora y el SERF de Fidelitas se ubicó en 37,7 puntos, dentro de la categoría de Riesgo Elevado.",
-      "pubDate": "2026-10-14T20:07:00.000Z"
+      "pubDate": "2026-10-14T23:05:00.000Z"
     },
     {
-      "title": "Tokenización de activos del mundo real: esta vez el valor viene antes",
-      "link": "https://www.criptonoticias.com/opinion/tokenizacion-rwa-valor-mercado/",
+      "title": "UE reconoce a USDC de Circle como el “primer token significativo” bajo MiCA",
+      "link": "https://www.criptonoticias.com/comunidad/adopcion/ue-reconoce-usdc-circle-primer-token-significativo-mica/",
       "source": "CriptoNoticias",
-      "summary": "Bonos, fondos y colateral ya tienen valor antes de llegar a la red. La tokenización busca reducir costos, tiempos y fricciones. La nota Tokenización de activ…",
-      "pubDate": "2026-10-14T19:51:29.000Z"
-    },
-    {
-      "title": "La morosidad en las empresas creció 53% en un año y alcanza a casi 59.000 empresas",
-      "link": "https://www.perfil.com/noticias/economia/la-morosidad-en-las-empresas-crecio-53-en-un-ano-y-alcanza-a-casi-59000-empresas-a40.phtml",
-      "source": "Perfil",
-      "summary": "En septiembre se sumaron más de 1.900 a la irregularidad en el sistema bancario, de acuerdo con un relevamiento de la consultora Fidelitas.",
-      "pubDate": "2026-10-14T19:47:16.000Z"
-    },
-    {
-      "title": "Ahorró bitcoin por 8 años y un chip falso en su Ledger se los llevó en una noche",
-      "link": "https://www.criptonoticias.com/sucesos/ahorro-bitcoin-chip-falso-ledger-llevo-noche/",
-      "source": "CriptoNoticias",
-      "summary": "Un contador jubilado hizo todo bien para proteger su bitcoin. Un implante LTE dentro de su hardware wallet terminó robando sus ahorros. La nota Ahorró bitcoi…",
-      "pubDate": "2026-10-14T19:49:23.000Z"
+      "summary": "La normativa europea contempla reservas, volumen de operaciones y número de titulares para determinar la relevancia de estos activos. La nota UE reconoce a U…",
+      "pubDate": "2026-10-14T22:23:26.000Z"
     }
   ]
 }
