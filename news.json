@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-10-16T19:51:04.380Z",
+  "updatedAt": "2026-10-16T23:23:05.818Z",
   "items": [
     {
-      "title": "La inflación mayorista se aceleró hasta el 3,2% en septiembre, según el INDEC",
-      "link": "https://www.perfil.com/noticias/economia/la-inflacion-mayorista-fue-de-32-septiembre-segun-el-indec-a40.phtml",
+      "title": "China gana terreno en disputa con EE.UU. sobre la economía global",
+      "link": "https://www.perfil.com/noticias/bloomberg/bc-china-gana-terreno-en-disputa-con-eeuu-sobre-la-economia-global.phtml",
       "source": "Perfil",
-      "summary": "El índice marcó un incremento de 1,1 punto porcentual con respecto a agosto y se ubicó por encima del 1,9% de la inflación general del mes.",
-      "pubDate": "2026-10-16T19:10:00.000Z"
+      "summary": "Sin Scott Bessent en la cumbre de Bangkok, Estados Unidos y sus aliados quedaron en el centro de las críticas por los desequilibrios económicos mundiales.",
+      "pubDate": "2026-10-16T22:42:00.000Z"
     },
     {
-      "title": "LayerTree abre el debate sobre cómo escalar Bitcoin sin perder autonomía",
-      "link": "https://www.criptonoticias.com/tecnologia/layertree-debate-como-escalar-bitcoin-sin-perder-autonomia/",
-      "source": "CriptoNoticias",
-      "summary": "La propuesta establecería que muchos usuarios utilicen una misma UTXO pero aún debe resolver el problema de las salidas unilateral. La nota LayerTree abre el…",
-      "pubDate": "2026-10-16T19:03:59.000Z"
-    },
-    {
-      "title": "Aumenta el dólar blue: cerró en $1.555 este viernes 16 de octubre",
-      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-viernes-16-de-octubre-a50-bgd.phtml",
-      "source": "Perfil",
-      "summary": "La divisa norteamericana cerró al alza, presentando una suba de $10 en la quinta rueda cambiaria de la semana",
-      "pubDate": "2026-10-16T18:52:00.000Z"
-    },
-    {
-      "title": "Del entusiasmo a la incertidumbre: NEAR Protocol enfrenta una nueva prueba en el mercado",
-      "link": "https://criptotendencia.com/2026/10/16/del-entusiasmo-a-la-incertidumbre-near-protocol-enfrenta-una-nueva-prueba-en-el-mercado-2/",
+      "title": "Conoce las principales alternativas descentralizadas de alojamiento frente a Airbnb",
+      "link": "https://criptotendencia.com/2026/10/16/conoce-las-principales-alternativas-descentralizadas-de-alojamiento-frente-a-airbnb-2/",
       "source": "CriptoTendencia",
-      "summary": "NEAR Protocol pierde los $5 pese a su expansión hacia Solana. Analizamos los soportes y resistencias que podrían definir su próximo movimiento.",
-      "pubDate": "2026-10-16T18:49:39.000Z"
+      "summary": "Conoce Dtravel, Travala y LockTrip, tres alternativas a Airbnb que incorporan blockchain, pagos cripto y nuevas opciones de alojamiento.",
+      "pubDate": "2026-10-16T23:22:00.000Z"
     },
     {
-      "title": "Euro blue hoy: volvió a subir y cerró a 1.849,75 este viernes 16 de octubre",
-      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-viernes-16-de-octubre-a50-bgd.phtml",
+      "title": "José Luis Ammaturo en RDEco sobre la industria: \"Llega un punto en que realmente es imposible seguir absorbiendo ese aumento de costos\"",
+      "link": "https://www.perfil.com/noticias/masperfil/la-industria-argentina-alerta-por-el-aumento-de-costos-y-la-caida-de-las-ventas.phtml",
       "source": "Perfil",
-      "summary": "La divisa europea informal cerró al alza la quinta rueda cambiaria de la semana, con una suba de $11.",
-      "pubDate": "2026-10-16T18:45:00.000Z"
+      "summary": "En Ronda de Economistas (RDEco), por +Perfil, Ammaturo explicó que la industria absorbió durante meses los aumentos de costos para sostener sus precios y mej…",
+      "pubDate": "2026-10-16T22:33:51.000Z"
     },
     {
-      "title": "El mercado de RWA en Solana pasó de USD 700 millones a USD 4.300 millones en un año",
-      "link": "https://www.criptonoticias.com/mercados/mercado-rwa-solana-usd-700-millones-usd-4300-millones/",
+      "title": "Google no dicta el futuro cuántico de Bitcoin, pero lo vuelve imaginable",
+      "link": "https://www.criptonoticias.com/tecnologia/google-futuro-cuantico-bitcoin-desarrollo-fud/",
       "source": "CriptoNoticias",
-      "summary": "La firma Castle Labs muestra un crecimiento interanual del 600% en los activos del mundo real tokenizados en Solana. La nota El mercado de RWA en Solana pasó…",
-      "pubDate": "2026-10-16T18:35:29.000Z"
+      "summary": "Desarrollos con el chip Willow no rompen BTC, pero convierten una amenaza abstracta en un riesgo medible, discutible y capaz de alimentar el FUD. La nota Goo…",
+      "pubDate": "2026-10-16T22:46:58.000Z"
+    },
+    {
+      "title": "La morosidad de las familias bajó levemente pero se mantuvo cerca del 13% según el Banco Central",
+      "link": "https://www.perfil.com/noticias/economia/la-morosidad-de-las-familias-bajo-levemente-pero-se-mantuvo-cerca-del-13-segun-el-banco-central-a40.phtml",
+      "source": "Perfil",
+      "summary": "La morosidad del crédito total del sistema financiero al sector privado aumentó levemente hasta 7,75%.",
+      "pubDate": "2026-10-16T21:55:53.000Z"
+    },
+    {
+      "title": "Lightning Network perdió el 25% de sus canales públicos",
+      "link": "https://www.criptonoticias.com/tecnologia/lightning-network-perdio-25-canales-publicos/",
+      "source": "CriptoNoticias",
+      "summary": "Una ola de alertas de seguridad redujo Lightning y dejó al descubierto cuánto depende de un solo cliente. La nota Lightning Network perdió el 25% de sus cana…",
+      "pubDate": "2026-10-16T22:26:58.000Z"
     }
   ]
 }
