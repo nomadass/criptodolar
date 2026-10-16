@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-10-16T13:52:03.474Z",
+  "updatedAt": "2026-10-16T19:51:04.380Z",
   "items": [
     {
-      "title": "El FMI pidió recortar más subsidios energéticos y habló de \"preservar avances\"",
-      "link": "https://www.perfil.com/noticias/economia/el-fmi-recorto-el-crecimiento-de-argentina-para-2026-pero-anticipa-una-recuperacion-y-advierte-por-los-riesgos-globales.phtml",
+      "title": "La inflación mayorista se aceleró hasta el 3,2% en septiembre, según el INDEC",
+      "link": "https://www.perfil.com/noticias/economia/la-inflacion-mayorista-fue-de-32-septiembre-segun-el-indec-a40.phtml",
       "source": "Perfil",
-      "summary": "El organismo advirtió que las ayudas generalizadas para contener los aumentos de la energía generan distorsiones y afectan las cuentas públicas. Destacó los…",
-      "pubDate": "2026-10-16T12:43:00.000Z"
+      "summary": "El índice marcó un incremento de 1,1 punto porcentual con respecto a agosto y se ubicó por encima del 1,9% de la inflación general del mes.",
+      "pubDate": "2026-10-16T19:10:00.000Z"
     },
     {
-      "title": "El banco Cross River incorpora RLUSD, la stablecoin de Ripple",
-      "link": "https://www.criptonoticias.com/comunidad/adopcion/banco-cross-river-incorpora-rlusd-stablecoin-ripple/",
+      "title": "LayerTree abre el debate sobre cómo escalar Bitcoin sin perder autonomía",
+      "link": "https://www.criptonoticias.com/tecnologia/layertree-debate-como-escalar-bitcoin-sin-perder-autonomia/",
       "source": "CriptoNoticias",
-      "summary": "La entidad financiera estadounidense es un puente regulado entre la banca tradicional y las innovaciones de pagos digitales. La nota El banco Cross River inc…",
-      "pubDate": "2026-10-16T12:57:31.000Z"
+      "summary": "La propuesta establecería que muchos usuarios utilicen una misma UTXO pero aún debe resolver el problema de las salidas unilateral. La nota LayerTree abre el…",
+      "pubDate": "2026-10-16T19:03:59.000Z"
     },
     {
-      "title": "Los alimentos acumulan seis semanas de aumentos y aceleran al 4,4% para todo el mes",
-      "link": "https://www.perfil.com/noticias/economia/alimentos-acumulan-seis-semanas-consecutivas-aumentos-inflacion-mensual-acelera-44-a40.phtml",
+      "title": "Aumenta el dólar blue: cerró en $1.555 este viernes 16 de octubre",
+      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-viernes-16-de-octubre-a50-bgd.phtml",
       "source": "Perfil",
-      "summary": "Según el relevamiento de LCG, los precios de alimentos y bebidas registraron una suba del 0,4% durante la segunda semana de octubre, impulsada principalmente…",
-      "pubDate": "2026-10-16T11:54:00.000Z"
+      "summary": "La divisa norteamericana cerró al alza, presentando una suba de $10 en la quinta rueda cambiaria de la semana",
+      "pubDate": "2026-10-16T18:52:00.000Z"
     },
     {
-      "title": "Las acciones tokenizadas alcanzan un récord histórico de $4.000 millones tras crecer un 831,8% anual",
-      "link": "https://criptotendencia.com/2026/10/16/las-acciones-tokenizadas-alcanzan-un-record-historico-de-4-000-millones-tras-crecer-un-8318-anual-2/",
+      "title": "Del entusiasmo a la incertidumbre: NEAR Protocol enfrenta una nueva prueba en el mercado",
+      "link": "https://criptotendencia.com/2026/10/16/del-entusiasmo-a-la-incertidumbre-near-protocol-enfrenta-una-nueva-prueba-en-el-mercado-2/",
       "source": "CriptoTendencia",
-      "summary": "Las acciones tokenizadas alcanzan un récord de $4.000 millones tras crecer un 831,8% anual, con Binance bStocks liderando el mercado.",
-      "pubDate": "2026-10-16T12:55:20.000Z"
+      "summary": "NEAR Protocol pierde los $5 pese a su expansión hacia Solana. Analizamos los soportes y resistencias que podrían definir su próximo movimiento.",
+      "pubDate": "2026-10-16T18:49:39.000Z"
     },
     {
-      "title": "Córdoba, la provincia con menor inflación que el promedio nacional de septiembre",
-      "link": "https://www.perfil.com/noticias/cordoba/cordoba-la-provincia-con-menor-inflacion-que-el-promedio-nacional-de-septiembre.phtml",
+      "title": "Euro blue hoy: volvió a subir y cerró a 1.849,75 este viernes 16 de octubre",
+      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-viernes-16-de-octubre-a50-bgd.phtml",
       "source": "Perfil",
-      "summary": "Cuáles fueron las provincias con mayor inflación en septiembre. La aceleración se vio en cinco de los diez distritos con IPC propio.",
-      "pubDate": "2026-10-16T11:00:48.000Z"
+      "summary": "La divisa europea informal cerró al alza la quinta rueda cambiaria de la semana, con una suba de $11.",
+      "pubDate": "2026-10-16T18:45:00.000Z"
     },
     {
-      "title": "Colombia Blockchain Week 2026: trading, stablecoins y mucho más en Medellín",
-      "link": "https://www.criptonoticias.com/comunidad/eventos/colombia-blockchain-week-2026-blockchain-trading-stablecoins-medellin/",
+      "title": "El mercado de RWA en Solana pasó de USD 700 millones a USD 4.300 millones en un año",
+      "link": "https://www.criptonoticias.com/mercados/mercado-rwa-solana-usd-700-millones-usd-4300-millones/",
       "source": "CriptoNoticias",
-      "summary": "La primera edición en Medellín cruzará blockchain con trading, stablecoins y adopción institucional en un hotel de El Poblado. La nota Colombia Blockchain We…",
-      "pubDate": "2026-10-16T12:47:43.000Z"
+      "summary": "La firma Castle Labs muestra un crecimiento interanual del 600% en los activos del mundo real tokenizados en Solana. La nota El mercado de RWA en Solana pasó…",
+      "pubDate": "2026-10-16T18:35:29.000Z"
     }
   ]
 }
