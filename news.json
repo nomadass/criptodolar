@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-18T19:20:46.724Z",
+  "updatedAt": "2026-10-18T22:55:44.262Z",
   "items": [
+    {
+      "title": "El consumo no repunta: cayeron las ventas por el Día de la Madre y dos de cada tres argentinos agotan sus ingresos antes del día 20",
+      "link": "https://www.perfil.com/noticias/economia/el-consumo-no-repunta-cayeron-las-ventas-por-el-dia-de-la-madre-y-dos-de-cada-tres-argentinos-agotan-sus-ingresos-antes-del-dia-20.phtml",
+      "source": "Perfil",
+      "summary": "Las ventas por el Día de la Madre retrocedieron 1,4% interanual y acumularon cinco caídas consecutivas. En paralelo, un relevamiento reveló que el 65,3% de l…",
+      "pubDate": "2026-10-18T21:05:50.000Z"
+    },
+    {
+      "title": "Resumen minero: las 5 noticias más relevantes de la minería de bitcoin esta semana",
+      "link": "https://criptotendencia.com/2026/10/18/resumen-minero-las-5-noticias-mas-relevantes-de-la-mineria-de-bitcoin-esta-semana-2/",
+      "source": "CriptoTendencia",
+      "summary": "La minería de bitcoin enfrenta mayores dificultades, caída de producción y presión financiera, mientras el hashrate muestra señales de recupe…",
+      "pubDate": "2026-10-18T20:58:00.000Z"
+    },
     {
       "title": "La morosidad se mantiene en niveles elevados y el mercado no espera una baja sustancial este año",
       "link": "https://www.perfil.com/noticias/economia/la-morosidad-se-mantiene-en-niveles-elevados-y-el-mercado-no-espera-una-baja-sustancial-este-ano.phtml",
@@ -9,11 +23,11 @@
       "pubDate": "2026-10-18T04:54:38.000Z"
     },
     {
-      "title": "Análisis: bitcoin entre la presión bajista y un récord histórico de grandes billeteras",
-      "link": "https://criptotendencia.com/2026/10/18/analisis-bitcoin-entre-la-presion-bajista-y-un-record-historico-de-grandes-billeteras-2/",
+      "title": "Publicidad CriptoTendencia",
+      "link": "https://criptotendencia.com/2026/10/18/publicidad-2/",
       "source": "CriptoTendencia",
-      "summary": "Bitcoin cotiza en una zona decisiva mientras las grandes billeteras alcanzan un récord histórico. Analizamos soportes, resistencias y ETF.",
-      "pubDate": "2026-10-18T17:56:25.000Z"
+      "summary": "Conecta tu marca con la audiencia de CriptoTendencia. Descubre nuestras opciones de publicidad, contenidos y campañas a medida en la web y nu…",
+      "pubDate": "2026-10-18T20:29:30.000Z"
     },
     {
       "title": "Carrera: “Milei repite el error de Sturzenegger con la inflación”",
@@ -23,25 +37,11 @@
       "pubDate": "2026-10-18T04:52:26.000Z"
     },
     {
-      "title": "Calendario económico: el bitcoin frente a los datos de esta semana",
-      "link": "https://criptotendencia.com/2026/10/18/calendario-economico-el-bitcoin-frente-a-los-datos-de-esta-semana/",
-      "source": "CriptoTendencia",
-      "summary": "En esta edición del calendario económico se repasa la agenda de datos que podrían tener incidencia en el precio de bitcoin y otras monedas.",
-      "pubDate": "2026-10-18T17:55:06.000Z"
-    },
-    {
-      "title": "Prevén utilizar solo un tercio de lo recaudado para arreglar rutas",
-      "link": "https://www.perfil.com/noticias/economia/preven-utilizar-solo-un-tercio-de-lo-recaudado-para-arreglar-rutas.phtml",
-      "source": "Perfil",
-      "summary": "Para el año próximo, el ministro de Economía, Luis Caputo, estipula amasar un billón y medio de pesos por el impuesto a los combustibles con destino específi…",
-      "pubDate": "2026-10-18T04:49:34.000Z"
-    },
-    {
-      "title": "Usuarios de Qubic sufrieron un robo por un fallo de entropía como el de Coldcard",
-      "link": "https://www.criptonoticias.com/seguridad-bitcoin/usuarios-qubic-robo-entropia-coldcard/",
+      "title": "El volumen de pagos en XRP Ledger cae 70% en un día",
+      "link": "https://www.criptonoticias.com/mercados/volumen-pagos-xrp-ledger-caida/",
       "source": "CriptoNoticias",
-      "summary": "Qubic atribuye el ataque a wallets creadas con aleatoriedad insuficiente y afirma que 87% de los fondos vaciados sigue congelado en su red. La nota Usuarios…",
-      "pubDate": "2026-10-18T17:08:02.000Z"
+      "summary": "Después de picos de cerca de 1.950 millones de XRP en el último mes, el volumen de pagos volvió al rango de sus mínimos, según XRPscan. La nota El volumen de…",
+      "pubDate": "2026-10-18T19:04:57.000Z"
     }
   ]
 }
