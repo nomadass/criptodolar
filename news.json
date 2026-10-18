@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T13:07:18.466Z",
+  "updatedAt": "2026-10-18T19:20:46.724Z",
   "items": [
     {
       "title": "La morosidad se mantiene en niveles elevados y el mercado no espera una baja sustancial este año",
@@ -9,11 +9,11 @@
       "pubDate": "2026-10-18T04:54:38.000Z"
     },
     {
-      "title": "Coldcard obligó a recuperar la entropía y Ledger obliga a recuperar el hardware",
-      "link": "https://www.criptonoticias.com/editorial/coldcard-obligo-recuperar-entropia-ledger-obliga-recuperar-hardware/",
-      "source": "CriptoNoticias",
-      "summary": "Los recientes hackeos demuestran que las hardware wallets son otro hueco de seguridad para la custodia de Bitcoin. La nota Coldcard obligó a recuperar la ent…",
-      "pubDate": "2026-10-18T08:20:00.000Z"
+      "title": "Análisis: bitcoin entre la presión bajista y un récord histórico de grandes billeteras",
+      "link": "https://criptotendencia.com/2026/10/18/analisis-bitcoin-entre-la-presion-bajista-y-un-record-historico-de-grandes-billeteras-2/",
+      "source": "CriptoTendencia",
+      "summary": "Bitcoin cotiza en una zona decisiva mientras las grandes billeteras alcanzan un récord histórico. Analizamos soportes, resistencias y ETF.",
+      "pubDate": "2026-10-18T17:56:25.000Z"
     },
     {
       "title": "Carrera: “Milei repite el error de Sturzenegger con la inflación”",
@@ -23,11 +23,11 @@
       "pubDate": "2026-10-18T04:52:26.000Z"
     },
     {
-      "title": "La stablecoin en yenes de SBI y Startale busca conectarse con OUSD",
-      "link": "https://criptotendencia.com/2026/10/18/la-stablecoin-en-yenes-de-sbi-y-startale-busca-conectarse-con-ousd/",
+      "title": "Calendario económico: el bitcoin frente a los datos de esta semana",
+      "link": "https://criptotendencia.com/2026/10/18/calendario-economico-el-bitcoin-frente-a-los-datos-de-esta-semana/",
       "source": "CriptoTendencia",
-      "summary": "SBI y Startale estudian conectar JPYSC con una stablecoin en dólares, tras el lanzamiento limitado de su token en yenes en Japón.",
-      "pubDate": "2026-10-18T01:34:08.000Z"
+      "summary": "En esta edición del calendario económico se repasa la agenda de datos que podrían tener incidencia en el precio de bitcoin y otras monedas.",
+      "pubDate": "2026-10-18T17:55:06.000Z"
     },
     {
       "title": "Prevén utilizar solo un tercio de lo recaudado para arreglar rutas",
@@ -37,11 +37,11 @@
       "pubDate": "2026-10-18T04:49:34.000Z"
     },
     {
-      "title": "El Coeficiente NVIDIA revela qué mineras de Bitcoin sobrevivirán a la reconversión",
-      "link": "https://www.criptonoticias.com/mineria/coeficiente-nvidia-revela-mineras-bitcoin-sobreviviran-reconversion/",
+      "title": "Usuarios de Qubic sufrieron un robo por un fallo de entropía como el de Coldcard",
+      "link": "https://www.criptonoticias.com/seguridad-bitcoin/usuarios-qubic-robo-entropia-coldcard/",
       "source": "CriptoNoticias",
-      "summary": "Un cálculo de CriptoNoticias mide el suministro de chips en IREN, Core Scientific y TeraWulf, hallando qué mineras arriesgan su operación. La nota El Coefici…",
-      "pubDate": "2026-10-17T21:00:00.000Z"
+      "summary": "Qubic atribuye el ataque a wallets creadas con aleatoriedad insuficiente y afirma que 87% de los fondos vaciados sigue congelado en su red. La nota Usuarios…",
+      "pubDate": "2026-10-18T17:08:02.000Z"
     }
   ]
 }
