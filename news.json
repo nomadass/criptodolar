@@ -1,12 +1,40 @@
 {
-  "updatedAt": "2026-10-17T22:58:35.726Z",
+  "updatedAt": "2026-10-18T13:07:18.466Z",
   "items": [
     {
-      "title": "Conversando con Claude.ia",
-      "link": "https://noticias.perfil.com/noticias/tecnologia/conversando-con-claudeia.phtml",
+      "title": "La morosidad se mantiene en niveles elevados y el mercado no espera una baja sustancial este año",
+      "link": "https://www.perfil.com/noticias/economia/la-morosidad-se-mantiene-en-niveles-elevados-y-el-mercado-no-espera-una-baja-sustancial-este-ano.phtml",
       "source": "Perfil",
-      "summary": "El ensayo de una conversación con una persona que, por supuesto, ya conoce al autor.",
-      "pubDate": "2026-10-17T12:33:18.000Z"
+      "summary": "El incumplimiento en el pago de obligaciones alcanzó el 12,81% en el noveno mes del año, una leve baja de apenas 0,13 puntos porcentuales respecto a julio. E…",
+      "pubDate": "2026-10-18T04:54:38.000Z"
+    },
+    {
+      "title": "Coldcard obligó a recuperar la entropía y Ledger obliga a recuperar el hardware",
+      "link": "https://www.criptonoticias.com/editorial/coldcard-obligo-recuperar-entropia-ledger-obliga-recuperar-hardware/",
+      "source": "CriptoNoticias",
+      "summary": "Los recientes hackeos demuestran que las hardware wallets son otro hueco de seguridad para la custodia de Bitcoin. La nota Coldcard obligó a recuperar la ent…",
+      "pubDate": "2026-10-18T08:20:00.000Z"
+    },
+    {
+      "title": "Carrera: “Milei repite el error de Sturzenegger con la inflación”",
+      "link": "https://www.perfil.com/noticias/economia/carrera-milei-repite-el-error-de-sturzenegger-con-la-inflacion.phtml",
+      "source": "Perfil",
+      "summary": "El exdirector del Banco Central señaló que el plan del Gobierno está trabado en un estancamiento que golpea al empleo y advirtió sobre los tiempos sociales.…",
+      "pubDate": "2026-10-18T04:52:26.000Z"
+    },
+    {
+      "title": "La stablecoin en yenes de SBI y Startale busca conectarse con OUSD",
+      "link": "https://criptotendencia.com/2026/10/18/la-stablecoin-en-yenes-de-sbi-y-startale-busca-conectarse-con-ousd/",
+      "source": "CriptoTendencia",
+      "summary": "SBI y Startale estudian conectar JPYSC con una stablecoin en dólares, tras el lanzamiento limitado de su token en yenes en Japón.",
+      "pubDate": "2026-10-18T01:34:08.000Z"
+    },
+    {
+      "title": "Prevén utilizar solo un tercio de lo recaudado para arreglar rutas",
+      "link": "https://www.perfil.com/noticias/economia/preven-utilizar-solo-un-tercio-de-lo-recaudado-para-arreglar-rutas.phtml",
+      "source": "Perfil",
+      "summary": "Para el año próximo, el ministro de Economía, Luis Caputo, estipula amasar un billón y medio de pesos por el impuesto a los combustibles con destino específi…",
+      "pubDate": "2026-10-18T04:49:34.000Z"
     },
     {
       "title": "El Coeficiente NVIDIA revela qué mineras de Bitcoin sobrevivirán a la reconversión",
@@ -14,34 +42,6 @@
       "source": "CriptoNoticias",
       "summary": "Un cálculo de CriptoNoticias mide el suministro de chips en IREN, Core Scientific y TeraWulf, hallando qué mineras arriesgan su operación. La nota El Coefici…",
       "pubDate": "2026-10-17T21:00:00.000Z"
-    },
-    {
-      "title": "El colchón del Banco Central, la batalla que viene",
-      "link": "https://noticias.perfil.com/noticias/economia/el-colchon-del-banco-central.phtml",
-      "source": "Perfil",
-      "summary": "El Gobierno hace su prevención ante una demanda de dólares creciente antes de las elecciones.",
-      "pubDate": "2026-10-17T12:29:52.000Z"
-    },
-    {
-      "title": "Chainalysis revela por qué EE. UU. acumula BTC mientras el mundo prefiere stablecoins",
-      "link": "https://www.criptonoticias.com/comunidad/adopcion/chainalysis-revela-ee-uu-acumula-btc-mundo-prefiere-stablecoins/",
-      "source": "CriptoNoticias",
-      "summary": "El interés por bitcoin como alternativa monetaria convive con la expansión internacional de los tokens digitales vinculados al dólar. La nota Chainalysis rev…",
-      "pubDate": "2026-10-17T19:24:53.000Z"
-    },
-    {
-      "title": "Luis Caputo defendió la gestión del Gobierno y aseguró que hay \"excedente de dólares\"",
-      "link": "https://www.perfil.com/noticias/economia/luis-caputo-defendio-la-gestion-del-gobierno-y-aseguro-que-hay-excedente-de-dolares.phtml",
-      "source": "Perfil",
-      "summary": "El ministro de Economía participó de las Reuniones Anuales del FMI y el Banco Mundial y afirmó que las divisas generadas por el RIGI permitirán levantar las…",
-      "pubDate": "2026-10-17T07:05:00.000Z"
-    },
-    {
-      "title": "Money20/20 arranca en Las Vegas: cinco señales que cripto debe vigilar estos días",
-      "link": "https://criptotendencia.com/2026/10/17/money20-20-arranca-en-las-vegas-cinco-senales-que-cripto-debe-vigilar-estos-dias/",
-      "source": "CriptoTendencia",
-      "summary": "Money20/20 abre en Las Vegas: stablecoins, IA agéntica, Kalshi y Mercado Pago, las señales que cripto debe seguir estos días.",
-      "pubDate": "2026-10-17T19:22:10.000Z"
     }
   ]
 }
