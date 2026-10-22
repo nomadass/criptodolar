@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-10-21T23:56:28.377Z",
+  "updatedAt": "2026-10-22T14:26:35.020Z",
   "items": [
     {
-      "title": "Líderes financieros rechazan temores de burbuja de IA tras dichos de Griffin",
-      "link": "https://www.perfil.com/noticias/bloomberg/bc-lideres-financieros-rechazan-temores-de-burbuja-de-ia-tras-dichos-de-griffin.phtml",
+      "title": "La carne argentina es hasta un 82% más barata que en Estados Unidos, pero cuesta más que en Brasil y Paraguay",
+      "link": "https://www.perfil.com/noticias/economia/carne-argentina-hasta-82-mas-barata-estados-unidos-pero-cuesta-mas-brasil-paraguay-a40.phtml",
       "source": "Perfil",
-      "summary": "Líderes financieros descartan una burbuja en la IA, pese a las advertencias de Ken Griffin.",
-      "pubDate": "2026-10-21T22:36:00.000Z"
+      "summary": "Un informe del IERAL de la Fundación Mediterránea reveló que el precio promedio de una canasta de cortes bovinos alcanza los u$s13,13 por kilo en los superme…",
+      "pubDate": "2026-10-22T13:54:00.000Z"
     },
     {
-      "title": "Soberanía en pausa, el uso de USDT desplaza a la autocustodia en Latinoamérica",
-      "link": "https://www.criptonoticias.com/comunidad/adopcion/soberania-pausa-usdt-desplaza-autocustodia-latinoamerica/",
+      "title": "El hashrate de Bitcoin recupera fuerza y emite señal alcista, según CEO de Cryptoquant",
+      "link": "https://www.criptonoticias.com/mineria/hashrate-bitcoin-recupera-fuerza-senal-alcista-ceo-cryptoquant/",
       "source": "CriptoNoticias",
-      "summary": "La región resuelve su necesidad de dólares sin ser su propio banco. El 40% de las compras ya son stablecoins en plataformas. La nota Soberanía en pausa, el u…",
-      "pubDate": "2026-10-21T22:54:28.000Z"
+      "summary": "Las finanzas tradicionales respaldan a las empresas de minería en un contexto de mayor potencia computacional dentro de la red, dice Ki Young Ju. La nota El…",
+      "pubDate": "2026-10-22T14:11:26.000Z"
     },
     {
-      "title": "RDEco: cómo impactaría una corrección del dólar en la industria textil y el precio de la ropa",
-      "link": "https://www.perfil.com/noticias/masperfil/rdeco-el-dolar-el-consumo-y-las-importaciones-en-el-centro-del-debate-industrial.phtml",
+      "title": "El Gobierno oficializó la venta del 90% de AySA y fijó la fecha para firmar la privatización",
+      "link": "https://www.perfil.com/noticias/economia/gobierno-oficializo-venta-90-aysa-fijo-fecha-firmar-privatizacion-a40.phtml",
       "source": "Perfil",
-      "summary": "En Ronda de Economistas (RDEco), por +Perfil, Marco Meloni y Hugo Vasques analizaron el impacto del tipo de cambio sobre la industria textil y debatieron si…",
-      "pubDate": "2026-10-21T22:35:47.000Z"
+      "summary": "La Resolución 1818/2026 del Ministerio de Economía aprobó los resultados de la licitación pública nacional e internacional. La operación todavía requiere com…",
+      "pubDate": "2026-10-22T11:56:19.000Z"
     },
     {
-      "title": "La llave que protegía parte de internet era el número 4, y no era una broma",
-      "link": "https://www.criptonoticias.com/tecnologia/llave-protegia-parte-internet-numero-4-emudhra/",
-      "source": "CriptoNoticias",
-      "summary": "No fue la única: otras llaves de eMudhra eran 66, 155 o 237. Bastaban para emitir certificados falsos de cualquier sitio web. La nota La llave que protegía p…",
-      "pubDate": "2026-10-21T22:52:38.000Z"
+      "title": "Conoce el nuevo indicador que detecta la acumulación de las ballenas de bitcoin",
+      "link": "https://criptotendencia.com/2026/10/22/conoce-el-nuevo-indicador-que-detecta-la-acumulacion-de-las-ballenas-de-bitcoin-2/",
+      "source": "CriptoTendencia",
+      "summary": "El nuevo indicador WFCI permite identificar posibles fases de acumulación y distribución de las ballenas de bitcoin. Conoce cómo funciona.",
+      "pubDate": "2026-10-22T12:55:04.000Z"
     },
     {
-      "title": "El riesgo país volvió a subir y se acerca a los 700 puntos, pese al avance de las acciones",
-      "link": "https://www.perfil.com/noticias/economia/el-riesgo-pais-volvio-a-subir-y-se-acerca-a-los-700-puntos-pese-al-avance-de-las-acciones-a40.phtml",
+      "title": "PAMI renovó su cartilla médica digital: cuáles son las nuevas opciones para buscar profesionales y centros de salud",
+      "link": "https://www.perfil.com/noticias/economia/pami-renovo-cartilla-medica-digital-cuales-nuevas-opciones-buscar-profesionales-centros-salud-a40.phtml",
       "source": "Perfil",
-      "summary": "El indicador de JP Morgan rebotó 0,3% y cerró en 674 puntos básicos, mientras las acciones argentinas en Wall Street operaron con mayoría de subas. Los bonos…",
-      "pubDate": "2026-10-21T22:27:00.000Z"
+      "summary": "PAMI actualizó su cartilla médica para facilitar la búsqueda de especialistas, centros de diagnóstico y prestaciones complementarias como ópticas y farmacias.",
+      "pubDate": "2026-10-22T11:30:00.000Z"
     },
     {
-      "title": "OpenAI revela cómo chatgpt ayudó a descubrir la falla crítica de PHP",
-      "link": "https://www.criptonoticias.com/seguridad-bitcoin/openai-revela-como-ia-ayudo-descubrir-falla-critica-php/",
+      "title": "«Ten mucho cuidado al visitar cualquier sitio web en próximos días»: fundador de Binance",
+      "link": "https://www.criptonoticias.com/seguridad-bitcoin/cuidado-visitar-sitio-web-proximos-dias-binance-changpengzhao/",
       "source": "CriptoNoticias",
-      "summary": "Los modelos de IA están cambiando la búsqueda de vulnerabilidades y OpenAI advierte que la defensa tradicional no podrá seguir el ritmo. La nota OpenAI revel…",
-      "pubDate": "2026-10-21T22:46:24.000Z"
+      "summary": "Changpeng Zhao alertó a los usuarios de internet sobre los riesgos críticos que implica la vulnerabilidad PHP2Shell para el robo de credenciales. La nota «Te…",
+      "pubDate": "2026-10-22T12:34:46.000Z"
     }
   ]
 }
