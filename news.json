@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-24T13:12:21.515Z",
+  "updatedAt": "2026-10-24T19:20:47.745Z",
   "items": [
+    {
+      "title": "Cuidado de personas: 48 de 50 políticas nacionales fueron desactivadas y las familias cubren el vacío",
+      "link": "https://www.perfil.com/noticias/cordoba/cuidado-de-personas-48-de-50-politicas-nacionales-fueron-desactivadas-y-las-familias-cubren-el-vacio.phtml",
+      "source": "Perfil",
+      "summary": "Desde el colectivo La Cocina de los Cuidados destacan que el sector podría generar 1,8 millones de empleos y equivale al 21% del PBI. La economista Lucía Cir…",
+      "pubDate": "2026-10-24T18:00:00.000Z"
+    },
+    {
+      "title": "Exchanges bajo PHP2Shell: cuando «verificar» se convierte en un acto de fe",
+      "link": "https://www.criptonoticias.com/seguridad-bitcoin/exchanges-sombra-php-verificar-queda-vacia/",
+      "source": "CriptoNoticias",
+      "summary": "El fallo no roba claves privadas. Permite ejecutar código en el servidor del exchange sin autenticarse. Y apenas deja rastro. La nota Exchanges bajo PHP2Shel…",
+      "pubDate": "2026-10-24T18:21:35.000Z"
+    },
     {
       "title": "El problema no es cómo construimos, sino cómo vivimos",
       "link": "https://noticias.perfil.com/noticias/empresas/el-problema-no-es-como-construimos-sino-como-vivimos.phtml",
@@ -9,11 +23,11 @@
       "pubDate": "2026-10-24T12:30:47.000Z"
     },
     {
-      "title": "J.P. Morgan Asset Management amplía a Solana el acceso a sus fondos monetarios tokenizados",
-      "link": "https://criptotendencia.com/2026/10/24/jpmorgan-fondos-monetarios-tokenizados-solana-mony-jltxx/",
-      "source": "CriptoTendencia",
-      "summary": "J.P. Morgan Asset Management lleva MONY y JLTXX a Solana para inversores elegibles de EE. UU. mediante la plataforma Morgan Money.",
-      "pubDate": "2026-10-24T03:15:47.000Z"
+      "title": "Electrum corrige un fallo de seguridad crítico en su versión 4.8.3",
+      "link": "https://www.criptonoticias.com/seguridad-bitcoin/electrum-corrige-fallo-de-seguridad-critico-en-su-version/",
+      "source": "CriptoNoticias",
+      "summary": "Un servidor malicioso podía reemplazar una transacción recién transmitida e intentar engañar al usuario para que la acelere mediante Replace by Fee La nota E…",
+      "pubDate": "2026-10-24T17:41:36.000Z"
     },
     {
       "title": "Los perfiles que más buscan las empresas",
@@ -23,25 +37,11 @@
       "pubDate": "2026-10-24T12:28:53.000Z"
     },
     {
-      "title": "Bybit obtiene licencia de VARA en Dubái para operar servicios de intercambio al contado",
-      "link": "https://criptotendencia.com/2026/10/24/bybit-licencia-vara-dubai-intercambio-contado/",
-      "source": "CriptoTendencia",
-      "summary": "Bybit Fintech FZE obtiene una licencia de VARA en Dubái para servicios de intercambio al contado y detalla sus planes de expansión.",
-      "pubDate": "2026-10-24T00:55:34.000Z"
-    },
-    {
-      "title": "Palmar cumplió 100 años: María Pía Astori reivindicó el legado familiar y reclamó reglas claras para producir",
-      "link": "https://www.perfil.com/noticias/cordoba/palmar-cumplio-100-anos-maria-pia-astori-reivindico-el-legado-familiar-y-reclamo-reglas-claras-para-producir.phtml",
-      "source": "Perfil",
-      "summary": "La empresaria repasó los momentos más difíciles de la compañía, desde la muerte de su padre en 1990 hasta la reconstrucción de las empresas en medio de una c…",
-      "pubDate": "2026-10-24T10:00:00.000Z"
-    },
-    {
-      "title": "Accionista de Circle lleva a Trump a los tribunales por sus negocios con criptomonedas",
-      "link": "https://www.criptonoticias.com/sucesos/accionista-circle-trump-tribunales-negocios-criptomonedas/",
+      "title": "Bitcoin pierde los 80.000 USD y deja 430 millones en liquidaciones en cuatro horas",
+      "link": "https://www.criptonoticias.com/mercados/bitcoin-pierde-80000-usd-deja-430-millones/",
       "source": "CriptoNoticias",
-      "summary": "Una inversión de USD 2.000 millones, capital emiratí y una cláusula constitucional confluyen en el caso contra Trump. La nota Accionista de Circle lleva a Tr…",
-      "pubDate": "2026-10-23T23:58:24.000Z"
+      "summary": "Las ventas llegaron desde el mercado al contado y los derivados a la vez, en un sábado sin ETF y tras su mayor salida desde junio. La nota Bitcoin pierde los…",
+      "pubDate": "2026-10-24T17:04:36.000Z"
     }
   ]
 }
