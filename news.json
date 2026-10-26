@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-10-25T23:06:50.710Z",
+  "updatedAt": "2026-10-26T16:00:37.389Z",
   "items": [
     {
-      "title": "Acoso fiscal: amenaza de más gasto",
-      "link": "https://noticias.perfil.com/noticias/economia/amenaza-de-mas-gasto.phtml",
+      "title": "La Bolsa brasileña sufrió su peor sacudón desde la pandemia: por qué frenaron las operaciones y cuánto dura la medida",
+      "link": "https://www.perfil.com/noticias/economia/la-bolsa-brasilena-sufrio-su-peor-sacudon-desde-la-pandemia-por-que-frenaron-las-operaciones-y-cuanto-dura-la-medida.phtml",
       "source": "Perfil",
-      "summary": "La incertidumbre financiera global también eleva el riesgo país y la demanda por un mayor gasto ataca al pilar del superávit fiscal.",
-      "pubDate": "2026-10-25T12:26:26.000Z"
+      "summary": "El principal índice bursátil del vecino país activó un mecanismo previsto para episodios de fuertes bajas y se interrumpieron las operaciones. Hasta cuándo d…",
+      "pubDate": "2026-10-26T15:37:00.000Z"
     },
     {
-      "title": "Resumen de las 5 noticias sobre minería de bitcoin más destacadas de la semana",
-      "link": "https://criptotendencia.com/2026/10/25/resumen-de-las-5-noticias-sobre-mineria-de-bitcoin-mas-destacadas-de-la-semana-4/",
-      "source": "CriptoTendencia",
-      "summary": "En este trabajo se hace un repaso profundo por las noticias más importantes de la semana en la industria de minería de bitcoin.",
-      "pubDate": "2026-10-25T22:29:00.000Z"
-    },
-    {
-      "title": "La decadencia del peso argentino reflejada a través del flamante índice Iron Maiden",
-      "link": "https://www.perfil.com/noticias/columnistas/la-decadencia-del-peso-argentino-reflejada-a-traves-del-flamante-indice-iron-maiden.phtml",
-      "source": "Perfil",
-      "summary": "Desde el primer recital en Ferro, en 1992, hasta los dos shows de esta semana en Huracán, la banda británica volvió una y otra vez a Buenos Aires. Cada visit…",
-      "pubDate": "2026-10-25T05:20:55.000Z"
-    },
-    {
-      "title": "Israel evalúa usar criptomonedas ante posibles sanciones globales, asegura Netanyahu",
-      "link": "https://criptotendencia.com/2026/10/25/israel-evalua-usar-criptomonedas-ante-posibles-sanciones-globales-asegura-netanyahu-2/",
-      "source": "CriptoTendencia",
-      "summary": "Netanyahu estudia utilizar criptomonedas ante posibles sanciones internacionales contra Israel, mientras crecen las críticas a su propuesta.",
-      "pubDate": "2026-10-25T20:47:00.000Z"
-    },
-    {
-      "title": "YPF, plazos fijo UVA y bonos CER, las inversiones ganadoras",
-      "link": "https://www.perfil.com/noticias/economia/ypf-plazos-fijo-uva-y-bonos-cer-las-inversiones-ganadoras.phtml",
-      "source": "Perfil",
-      "summary": "Con un 23,6% de inflación acumulada a septiembre, escasas inversiones lograron superarla. En el segmento de renta variable, las acciones argentinas en la pla…",
-      "pubDate": "2026-10-25T04:49:58.000Z"
-    },
-    {
-      "title": "PHP2Shell: el debate sobre si es tan fácil de vulnerar como parecía",
-      "link": "https://www.criptonoticias.com/comunidad/php2shell-debate-facil-vulnerar-parecia/",
+      "title": "Lula y USDT: ¿por qué la reelección sube un 6% el costo de resguardo en Brasil?",
+      "link": "https://www.criptonoticias.com/comunidad/adopcion/lula-usdt-reeleccion-costo-resguardo-brasil/",
       "source": "CriptoNoticias",
-      "summary": "Por precaución, gobiernos y empresas desconectaron sistemas; investigaciones indican que un ataque funcional exige alto nivel técnico. La nota PHP2Shell: el…",
-      "pubDate": "2026-10-25T19:06:56.000Z"
+      "summary": "El sobreprecio de la cotización saltó tras los comicios. Ahora, la aplicación de una tasa del 3,5% amenaza con sumar más presión financiera. La nota Lula y U…",
+      "pubDate": "2026-10-26T15:38:24.000Z"
+    },
+    {
+      "title": "El riesgo país se dispara a 745 puntos y alcanza su nivel más alto en un año",
+      "link": "https://www.perfil.com/noticias/economia/el-riesgo-pais-se-dispara-a-745-puntos-y-alcanza-su-nivel-mas-alto-en-un-ano-a40.phtml",
+      "source": "Perfil",
+      "summary": "El indicador de JP Morgan sube 38 puntos en medio de una fuerte venta de bonos argentinos, en una jornada marcada por el impacto financiero del triunfo de Lu…",
+      "pubDate": "2026-10-26T15:22:00.000Z"
+    },
+    {
+      "title": "¿Cómo afectan los fallos críticos de PHP a las wallets y a los exchanges de criptomonedas?",
+      "link": "https://www.criptonoticias.com/tecnologia/fallos-criticos-php-wallets-exchanges-criptomonedas/",
+      "source": "CriptoNoticias",
+      "summary": "Las vulnerabilidades apuntan a servidores web, como los de exchanges, y no a las wallets, que dependen de otro software y de quién lo actualiza. La nota ¿Cóm…",
+      "pubDate": "2026-10-26T15:22:30.000Z"
+    },
+    {
+      "title": "Stellantis frena la producción de Fiat y Peugeot en Argentina: suspensiones y vacaciones adelantadas para sus empleados",
+      "link": "https://www.perfil.com/noticias/economia/stellantis-frena-produccion-fiat-peugeot-argentina-suspensiones-vacaciones-adelantadas-empleados-a40.phtml",
+      "source": "Perfil",
+      "summary": "La fabricación del Chronos y de motores, en Córdoba, no se verá afectada por esta medida. Pero la seccional en El Palomar detuvo su producción desde este lun…",
+      "pubDate": "2026-10-26T14:33:00.000Z"
+    },
+    {
+      "title": "¿Qué están haciendo las altcoins para protegerse de la cuántica?",
+      "link": "https://www.criptonoticias.com/tecnologia/altcoins-criptomonedas-proteccion-computacion-cuantica/",
+      "source": "CriptoNoticias",
+      "summary": "Redes como XRP Ledger, Solana y Cardano anuncian planes poscuánticos, pero van de un voto programado a informes de prueba y propuestas en revisión. La nota ¿…",
+      "pubDate": "2026-10-26T14:41:39.000Z"
     }
   ]
 }
