@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-10-26T21:31:07.071Z",
+  "updatedAt": "2026-10-27T15:14:38.928Z",
   "items": [
     {
-      "title": "A cuánto cerró el dólar blue hoy, lunes 26 de octubre",
-      "link": "https://www.perfil.com/noticias/economia/el-dolar-blue-se-estabiliza-en-los-1565-este-viernes-23-de-octubre.phtml",
-      "source": "Perfil",
-      "summary": "La divisa norteamericana cerró al alza, presentando una suba de $10 transcurridas 5 horas de la primera rueda cambiaria de la semana",
-      "pubDate": "2026-10-26T20:23:00.000Z"
-    },
-    {
-      "title": "Keystone destruirá 18.800 hardware wallets tras una brecha de seguridad",
-      "link": "https://www.criptonoticias.com/seguridad-bitcoin/keystone-destruira-18800-hardware-wallets-brecha-seguridad/",
+      "title": "¿Estalló en China la primera burbuja de inteligencia artificial?",
+      "link": "https://www.criptonoticias.com/mercados/estallo-china-primera-burbuja-inteligencia-artificial/",
       "source": "CriptoNoticias",
-      "summary": "Los datos de envío pueden revelar dónde vive un comprador de hardware wallets y convertirlo en blanco de ataques. La nota Keystone destruirá 18.800 hardware…",
-      "pubDate": "2026-10-26T21:18:17.000Z"
+      "summary": "El colapso de las acciones chinas de IA plantea una pregunta incómoda: ¿cuánto tiempo más puede Wall Street sostener valuaciones tan altas? La nota ¿Estalló…",
+      "pubDate": "2026-10-27T15:05:20.000Z"
     },
     {
-      "title": "A cuánto cerró el euro blue hoy, lunes 26 de octubre",
-      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-lunes-26-de-octubre.phtml",
-      "source": "Perfil",
-      "summary": "La divisa europea informal cerró al alza, presentando una suba de $18 en el marco de la primera rueda cambiaria de la semana.",
-      "pubDate": "2026-10-26T20:18:00.000Z"
-    },
-    {
-      "title": "La llegada del euro digital al comercio choca con una factura de 6.000 millones",
-      "link": "https://www.criptonoticias.com/comunidad/adopcion/llegada-euro-digital-comercio-factura-6000millones/",
-      "source": "CriptoNoticias",
-      "summary": "El BCE promete el euro digital para 2029, pero la industria necesita hasta 36 meses para adaptar las máquinas de cobro: un 30% necesitará un técnico. La nota…",
-      "pubDate": "2026-10-26T21:03:40.000Z"
-    },
-    {
-      "title": "El empleo privado sigue en caída y se perdieron 266.000 puestos desde noviembre de 2023",
-      "link": "https://www.perfil.com/noticias/economia/el-empleo-privado-sigue-en-caida-y-ya-se-perdieron-266000-puestos-desde-noviembre-de-2023-a40.phtml",
-      "source": "Perfil",
-      "summary": "El empleo asalariado formal del sector privado acumula 14 meses consecutivos de caída y retrocedió 4,2% desde noviembre de 2023. La actividad económica está…",
-      "pubDate": "2026-10-26T17:28:13.000Z"
-    },
-    {
-      "title": "Bitcoin hoy: BTC sigue bajo presión y no logra recuperar terreno",
-      "link": "https://criptotendencia.com/2026/10/26/bitcoin-hoy-btc-sigue-bajo-presion-y-no-logra-recuperar-terreno-2/",
+      "title": "Las ballenas de Solana incrementan la presión de venta y el token pierde los $100",
+      "link": "https://criptotendencia.com/2026/10/27/las-ballenas-de-solana-incrementan-la-presion-de-venta-y-el-token-pierde-los-100/",
       "source": "CriptoTendencia",
-      "summary": "Bitcoin pierde una zona clave de soporte y continúa consolidando en niveles inferiores. Analizamos los escenarios y niveles a vigilar.",
-      "pubDate": "2026-10-26T21:02:41.000Z"
+      "summary": "El precio del token de Solana perdió la barrera de los $100 tras una fuerte presión de venta por parte de las grandes carteras o ballenas.",
+      "pubDate": "2026-10-27T14:17:57.000Z"
+    },
+    {
+      "title": "Creció el uso de stablecoins en México: ¿cuál es su impacto en los casinos online?",
+      "link": "https://www.criptonoticias.com/negocios/crecio-uso-stablecoins-mexico-impacto/",
+      "source": "CriptoNoticias",
+      "summary": "La adopción de criptomonedas en México impulsa el uso de stablecoins y abre nuevas oportunidades para los casinos y las apuestas deportivas. La nota Creció e…",
+      "pubDate": "2026-10-27T13:42:28.000Z"
+    },
+    {
+      "title": "CriptoTendencia supera los 75.000 espectadores en Threads en 48 horas",
+      "link": "https://criptotendencia.com/2026/10/27/criptotendencia-supera-los-75-000-espectadores-en-threads-en-48-horas/",
+      "source": "CriptoTendencia",
+      "summary": "CriptoTendencia superó los 75.000 espectadores en Threads en 48 horas con su cobertura en tiempo real de las elecciones de Brasil.",
+      "pubDate": "2026-10-27T13:05:00.000Z"
+    },
+    {
+      "title": "Condenan por estafa con bitcoin a argentino que prometía ganancias del 10% mensual",
+      "link": "https://www.criptonoticias.com/sucesos/condenan-estafa-bitcoin-argentino-ganancias-10/",
+      "source": "CriptoNoticias",
+      "summary": "Nicolás Mendioroz Juncosa aceptó su responsabilidad penal por defraudar con falsas inversiones que sumaron USD 164.000. La nota Condenan por estafa con bitco…",
+      "pubDate": "2026-10-27T12:44:09.000Z"
+    },
+    {
+      "title": "Binance solicita autorización para operar en Brasil",
+      "link": "https://www.criptonoticias.com/regulacion/binance-autorizacion-exchange-regulado-brasil/",
+      "source": "CriptoNoticias",
+      "summary": "BBrasil, nueva empresa del exchange, tramitó el permiso oficial como prestadora de servicios virtuales según las nuevas regulaciones. La nota Binance solicit…",
+      "pubDate": "2026-10-27T12:28:36.000Z"
     }
   ]
 }
