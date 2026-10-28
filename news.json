@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-10-27T21:09:38.886Z",
+  "updatedAt": "2026-10-28T15:50:35.726Z",
   "items": [
     {
-      "title": "Lula reelecto en Brasil quiere energía para data centers e IA, ¿y la minería de Bitcoin?",
-      "link": "https://www.criptonoticias.com/mineria/lula-reelecto-brasil-energia-data-centers-ia-mineria-bitcoin/",
+      "title": "La estacionalidad de “Uptober” pierde fuerza frente a la demanda de bitcoin",
+      "link": "https://www.criptonoticias.com/mercados/estacionalidad-uptober-pierde-fuerza-frente-a-demanda-bitcoin/",
       "source": "CriptoNoticias",
-      "summary": "La apuesta del presidente por la IA podría disputar la energía que hoy aprovechan los mineros de Bitcoin en el país sudamericano. La nota Lula reelecto en Br…",
-      "pubDate": "2026-10-27T20:43:50.000Z"
+      "summary": "La demanda spot se debilitó y los compradores estadounidenses se mantuvieron al margen, pese al historial favorable de octubre. La nota La estacionalidad de…",
+      "pubDate": "2026-10-28T14:54:05.000Z"
     },
     {
-      "title": "Grayscale elogia el modelo de financiamiento de Zcash justo cuando proponen recortarlo",
-      "link": "https://www.criptonoticias.com/tecnologia/grayscale-modelo-financiamiento-zcash-recorte/",
-      "source": "CriptoNoticias",
-      "summary": "La gestora de activos valoró el subsidio automático del protocolo como motor de innovación en el marco de su décimo aniversario. La nota Grayscale elogia el…",
-      "pubDate": "2026-10-27T20:08:17.000Z"
-    },
-    {
-      "title": "Un hospital tuvo que suspender cirugías por ciberataque",
-      "link": "https://www.criptonoticias.com/seguridad-bitcoin/hospital-suspender-cirugias-ciberataque/",
-      "source": "CriptoNoticias",
-      "summary": "Esto ocurre en un contexto crítico para la ciberseguridad que también afecta a la industria de bitcoin y las criptomonedas. La nota Un hospital tuvo que susp…",
-      "pubDate": "2026-10-27T19:51:28.000Z"
-    },
-    {
-      "title": "Tron: de red «barata» a la más cara para enviar USDT",
-      "link": "https://www.criptonoticias.com/mercados/tron-red-barata-cara-enviar-usdt-tarifas-comisiones/",
-      "source": "CriptoNoticias",
-      "summary": "Tron se erigió en sus inicios como opción para enviar USDT sin pagar las elevadas comisiones, pero ahora las cosas son diferentes. La nota Tron: de red «bara…",
-      "pubDate": "2026-10-27T19:29:11.000Z"
-    },
-    {
-      "title": "Las ballenas poseen XRP a un nivel que no se veía desde 2022",
-      "link": "https://www.criptonoticias.com/mercados/ballenas-poseen-xrp-nivel-2022/",
-      "source": "CriptoNoticias",
-      "summary": "Las wallets con más de 10 millones de XRP acumulan el 68,5% del circulante de esta criptomoneda. La nota Las ballenas poseen XRP a un nivel que no se veía de…",
-      "pubDate": "2026-10-27T19:21:28.000Z"
-    },
-    {
-      "title": "MERGE Madrid 2026 arranca en la Bolsa con la gran banca española sobre la mesa",
-      "link": "https://criptotendencia.com/2026/10/27/merge-madrid-2026-arranca-en-la-bolsa-con-la-gran-banca-espanola-sobre-la-mesa/",
+      "title": "Black October y la lección del Y2K que cripto aprendió a la fuerza",
+      "link": "https://criptotendencia.com/2026/10/28/black-october-y-la-leccion-del-y2k-que-cripto-aprendio-a-la-fuerza/",
       "source": "CriptoTendencia",
-      "summary": "MERGE Madrid 2026 abre con Santander, BBVA y Western Union debatiendo stablecoins y tokenización en blockchain.",
-      "pubDate": "2026-10-27T18:35:04.000Z"
+      "summary": "Black October: los fallos de PHP hallados por IA llevan a la web al régimen de ataque permanente que cripto ya conoce.",
+      "pubDate": "2026-10-28T14:32:21.000Z"
+    },
+    {
+      "title": "Hackers exigen USD 50 millones en criptomonedas tras atacar a gigante tecnológico japonés",
+      "link": "https://www.criptonoticias.com/seguridad-bitcoin/hackers-usd50-millones-criptomonedas-japon/",
+      "source": "CriptoNoticias",
+      "summary": "El ataque a GMO Internet comprometió más de 26.000 servidores y afectó cuentas de trading en más de 70 plataformas. La nota Hackers exigen USD 50 millones en…",
+      "pubDate": "2026-10-28T14:07:59.000Z"
+    },
+    {
+      "title": "Google lanzará sistema de seguridad para llaves de bitcoin",
+      "link": "https://www.criptonoticias.com/seguridad-bitcoin/google-entrara-negocio-custodia-bitcoin/",
+      "source": "CriptoNoticias",
+      "summary": "Google Multi-Party Compute protegerá criptomonedas institucionales dividiendo claves privadas para mitigar hackeos. La nota Google lanzará sistema de segurid…",
+      "pubDate": "2026-10-28T13:28:59.000Z"
+    },
+    {
+      "title": "¿Las criptomonedas acabarán con el dólar? Bessent dice que no y explica el porqué",
+      "link": "https://www.criptonoticias.com/mercados/criptomonedas-acabaran-dolar-bessent/",
+      "source": "CriptoNoticias",
+      "summary": "El secretario del Tesoro de EE. UU. afirma que las stablecoins ampliarán la hegemonía y el financiamiento de la moneda estadounidense. La nota ¿Las criptomon…",
+      "pubDate": "2026-10-28T13:15:20.000Z"
+    },
+    {
+      "title": "El FMI confirma que la tokenización dejó atrás el laboratorio: repos de hasta USD 350.000 millones diarios",
+      "link": "https://criptotendencia.com/2026/10/28/el-fmi-confirma-que-la-tokenizacion-dejo-atras-el-laboratorio-repos-de-hasta-usd-350-000-millones-diarios/",
+      "source": "CriptoTendencia",
+      "summary": "La tokenización ya mueve hasta USD 350.000 millones diarios en repos, según el FMI, y una plataforma regulada ve validado su modelo.",
+      "pubDate": "2026-10-28T12:48:10.000Z"
     }
   ]
 }
