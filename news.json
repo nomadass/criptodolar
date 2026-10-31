@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-31T20:25:40.198Z",
+  "updatedAt": "2026-10-31T23:59:04.532Z",
   "items": [
+    {
+      "title": "El FBI atribuye a Corea del Norte el robo de más de US$ 6.000 millones a Binance",
+      "link": "https://criptotendencia.com/2026/10/31/el-fbi-atribuye-a-corea-del-norte-el-robo-de-mas-de-us-6-000-millones-a-binance/",
+      "source": "CriptoTendencia",
+      "summary": "El FBI atribuye a Corea del Norte el robo de más de US$ 6.000 millones a Binance y alerta sobre nuevas etapas de blanqueo de fondos.",
+      "pubDate": "2026-10-31T23:10:02.000Z"
+    },
     {
       "title": "Chainalysis revela cómo los hackers de Binance eludieron el bloqueo de stablecoins",
       "link": "https://www.criptonoticias.com/seguridad-bitcoin/chainalysis-revela-como-hackers-binance-eludieron-bloqueo-stablecoins/",
@@ -35,13 +42,6 @@
       "source": "CriptoNoticias",
       "summary": "Conversamos con el analista on-chain Juan Rodríguez sobre cómo la contabilidad de Bitcoin nos informa sobre el futuro de la red. La nota SDE ep. 53: La migra…",
       "pubDate": "2026-10-31T14:41:16.000Z"
-    },
-    {
-      "title": "Operadores de nodos de Bitcoin advierten de falla en Linux",
-      "link": "https://www.criptonoticias.com/tecnologia/operadores-nodos-bitcoin-advierten-falla-linux/",
-      "source": "CriptoNoticias",
-      "summary": "La vulnerabilidad crítica CVE-2026-98432 permite tomar el control remoto de los servidores, por lo que recomiendan actualizar o apagar. La nota Operadores de…",
-      "pubDate": "2026-10-31T13:58:32.000Z"
     }
   ]
 }
