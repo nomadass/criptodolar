@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-31T15:13:37.718Z",
+  "updatedAt": "2026-10-31T20:25:40.198Z",
   "items": [
+    {
+      "title": "Chainalysis revela cómo los hackers de Binance eludieron el bloqueo de stablecoins",
+      "link": "https://www.criptonoticias.com/seguridad-bitcoin/chainalysis-revela-como-hackers-binance-eludieron-bloqueo-stablecoins/",
+      "source": "CriptoNoticias",
+      "summary": "La firma de seguridad vinculó a un grupo de hackers norcoreano con el ataque al exchange que resultó en un robo de USD 6.300 millones. La nota Chainalysis re…",
+      "pubDate": "2026-10-31T18:51:33.000Z"
+    },
+    {
+      "title": "Binance asume el 90% de las pérdidas por el hackeo y reabre retiros mañana",
+      "link": "https://www.criptonoticias.com/seguridad-bitcoin/binance-asume-90-perdidas-hackeo-reabre-retiros-manana/",
+      "source": "CriptoNoticias",
+      "summary": "El exchange destinó fondos para respaldar a criptoactivos principales como bitcoin (BTC), ether (ETH) y USDT. La nota Binance asume el 90% de las pérdidas po…",
+      "pubDate": "2026-10-31T16:11:37.000Z"
+    },
     {
       "title": "Binance ya cubrió el 90% de los fondos robados y mantiene la reapertura de retiros el domingo",
       "link": "https://criptotendencia.com/2026/10/31/binance-ya-cubrio-el-90-de-los-fondos-robados-y-mantiene-la-reapertura-de-retiros-el-domingo/",
@@ -28,20 +42,6 @@
       "source": "CriptoNoticias",
       "summary": "La vulnerabilidad crítica CVE-2026-98432 permite tomar el control remoto de los servidores, por lo que recomiendan actualizar o apagar. La nota Operadores de…",
       "pubDate": "2026-10-31T13:58:32.000Z"
-    },
-    {
-      "title": "AppChains y redes modulares: por qué está cambiando la infraestructura blockchain",
-      "link": "https://criptotendencia.com/2026/10/31/appchains-y-redes-modulares-por-que-esta-cambiando-la-infraestructura-blockchain/",
-      "source": "CriptoTendencia",
-      "summary": "Descubre por qué las aplicaciones Web3 migran hacia blockchains propias y redes modulares para mejorar la escalabilidad, seguridad y eficiencia.",
-      "pubDate": "2026-10-31T12:29:00.000Z"
-    },
-    {
-      "title": "Tokenización de IP, giros estratégicos y resiliencia: el panorama actual de los NFT",
-      "link": "https://criptotendencia.com/2026/10/31/tokenizacion-de-ip-giros-estrategicos-y-resiliencia-el-panorama-actual-de-los-nft-2/",
-      "source": "CriptoTendencia",
-      "summary": "Los NFT evolucionan entre la tokenización de propiedad intelectual, nuevos coleccionables, cierres de plataformas y casos de fraude internaci…",
-      "pubDate": "2026-10-31T10:29:00.000Z"
     }
   ]
 }
