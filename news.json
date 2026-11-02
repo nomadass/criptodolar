@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-11-01T21:02:14.138Z",
+  "updatedAt": "2026-11-02T19:21:27.375Z",
   "items": [
     {
-      "title": "Reporte sobre las ballenas de bitcoin y su actividad comercial esta semana",
-      "link": "https://criptotendencia.com/2026/11/01/reporte-sobre-las-ballenas-de-bitcoin-y-su-actividad-comercial-esta-semana-2/",
+      "title": "Bitunix: ¿qué ofrece este exchange y cómo se compara con sus competidores?",
+      "link": "https://www.criptonoticias.com/reviews/bitunix-que-ofrece-como-se-compara-con-competidores/",
+      "source": "CriptoNoticias",
+      "summary": "Analizamos los principales productos y las características de la plataforma, lo bueno, lo mejorable y para quién realmente es recomendable. La nota Bitunix:…",
+      "pubDate": "2026-11-02T18:37:11.000Z"
+    },
+    {
+      "title": "Falla crítica en Linux: ¿qué hay en riesgo para el ecosistema Bitcoin e Internet?",
+      "link": "https://www.criptonoticias.com/tecnologia/falla-critica-linux-hay-riesgo-ecosistema-bitcoin-e/",
+      "source": "CriptoNoticias",
+      "summary": "Linux es usado como base de gran parte de internet y el error detectado permitiría que hackers tomen control remotamente de servidores vulnerables. La nota F…",
+      "pubDate": "2026-11-02T18:24:54.000Z"
+    },
+    {
+      "title": "Colombia propone impuesto del 5% para «sacar a la luz» las criptomonedas no declaradas",
+      "link": "https://www.criptonoticias.com/regulacion/colombia-impuesto-sacar-luz-criptomonedas/",
+      "source": "CriptoNoticias",
+      "summary": "El Gobierno presentó un proyecto de ley para incluir criptoactivos omitidos en las declaraciones ante la DIAN. La nota Colombia propone impuesto del 5% para…",
+      "pubDate": "2026-11-02T18:20:03.000Z"
+    },
+    {
+      "title": "Entró en vigencia el informe mensual obligatorio para exchanges de bitcoin en Argentina",
+      "link": "https://www.criptonoticias.com/regulacion/entro-vigencia-informe-mensual-obligatorio-exchanges-bitcoin-argentina/",
+      "source": "CriptoNoticias",
+      "summary": "Mayor vigilancia estatal: el gobierno obtendrá una radiografía exacta del sector, conociendo el volumen real operado y los activos más elegidos. La nota Entr…",
+      "pubDate": "2026-11-02T17:14:18.000Z"
+    },
+    {
+      "title": "China abre el grifo de liquidez mientras cae la IA: ¿puede beneficiarse bitcoin?",
+      "link": "https://www.criptonoticias.com/mercados/china-abre-grifo-liquidez-mientras-cae-ia-puede/",
+      "source": "CriptoNoticias",
+      "summary": "El gigante asiático abarata el dinero mientras las acciones tecnológicas caen y el mercado mide si esa medida puede frenar la corrección. La nota China abre…",
+      "pubDate": "2026-11-02T17:12:46.000Z"
+    },
+    {
+      "title": "Días después de Binance, un ataque drena 40 millones de dólares de Mercado Bitcoin",
+      "link": "https://criptotendencia.com/2026/11/02/dias-despues-de-binance-un-ataque-drena-40-millones-de-dolares-de-mercado-bitcoin/",
       "source": "CriptoTendencia",
-      "summary": "Analizamos la actividad de las ballenas de bitcoin tras el hackeo de Binance, las reservas de BTC y las salidas de capital de los ETF.",
-      "pubDate": "2026-11-01T20:57:47.000Z"
-    },
-    {
-      "title": "Las elecciones de este 3 de noviembre definen el ritmo de la regulación de Bitcoin en EE. UU.",
-      "link": "https://www.criptonoticias.com/regulacion/3-noviembre-define-ritmo-regulacion-bitcoin-ee/",
-      "source": "CriptoNoticias",
-      "summary": "Mientras la industria invierte 200 millones de dólares para influir en las urnas, los analistas temen que renazca la presión contra las criptomonedas. La not…",
-      "pubDate": "2026-11-01T19:31:24.000Z"
-    },
-    {
-      "title": "Bitcoin se sostiene en 77.000 dólares tras una de las semanas más agitadas del mercado",
-      "link": "https://www.criptonoticias.com/mercados/bitcoin-sostiene-77-000-dolares-semanas/",
-      "source": "CriptoNoticias",
-      "summary": "El hackeo a Binance, la pausa de la FED y la caída de las tecnológicas pusieron a prueba al mercado de cara al inicio del onceavo mes del año. La nota Bitcoi…",
-      "pubDate": "2026-11-01T18:03:24.000Z"
-    },
-    {
-      "title": "El atraco que financiaría a un Estado: lo que el hackeo a Binance revela sobre Corea del Norte",
-      "link": "https://criptotendencia.com/2026/11/01/el-atraco-que-financiaria-a-un-estado-lo-que-el-hackeo-a-binance-revela-sobre-corea-del-norte/",
-      "source": "CriptoTendencia",
-      "summary": "El FBI atribuye a Corea del Norte el robo de 6.300 millones a Binance, que podría financiar a un régimen bajo sanciones.",
-      "pubDate": "2026-11-01T17:57:00.000Z"
-    },
-    {
-      "title": "Comprar bitcoin en Colombia: Guía completa, útil y actualizada (2026)",
-      "link": "https://www.criptonoticias.com/tutoriales-guias/donde-comprar-vender-bitcoins-colombia/",
-      "source": "CriptoNoticias",
-      "summary": "¿Buscando dónde comprar bitcoin en Colombia? Te mostramos las mejores plataformas, cómo pagar con Nequi, Bre-B o PSE, cuánto cuesta y qué declarar ante la DI…",
-      "pubDate": "2026-11-01T17:20:41.000Z"
-    },
-    {
-      "title": "La nueva batalla del hackeo a Binance: impedir que Corea del Norte lave los fondos",
-      "link": "https://www.criptonoticias.com/seguridad-bitcoin/nueva-batalla-hackeo-binance-impedir-corea-norte-lave/",
-      "source": "CriptoNoticias",
-      "summary": "Los atacantes están convirtiendo los activos robados principalmente a ether y el FBI prevé que luego utilicen servicios DeFi para continuar el lavado. La not…",
-      "pubDate": "2026-11-01T16:56:23.000Z"
+      "summary": "Mercado Bitcoin pausa depósitos y retiros tras un ataque en 10 blockchains con pérdidas estimadas en más de 40 millones de dólares.",
+      "pubDate": "2026-11-02T17:03:00.000Z"
     }
   ]
 }
