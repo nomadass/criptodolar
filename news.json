@@ -1,47 +1,47 @@
 {
-  "updatedAt": "2026-11-03T16:55:45.976Z",
+  "updatedAt": "2026-11-03T22:14:52.454Z",
   "items": [
     {
-      "title": "Tres señales ponen en duda la recuperación de bitcoin",
-      "link": "https://www.criptonoticias.com/mercados/tres-senales-ponen-duda-recuperacion-bitcoin/",
+      "title": "«Todos los hackeos son prevenibles», dice CZ tras el ataque a Binance",
+      "link": "https://www.criptonoticias.com/comunidad/todos-hackeos-son-prevenibles-dice-cz-ataque-binance/",
       "source": "CriptoNoticias",
-      "summary": "El impulso alcista parece desvanecerse mientras BTC se negocia por encima de 77.000 dólares. La nota Tres señales ponen en duda la recuperación de bitcoin se…",
-      "pubDate": "2026-11-03T16:49:06.000Z"
+      "summary": "El fundador del exchange cree que la industria se confió demasiado y ahora necesita compartir información, auditarse mutuamente y actuar más rápido. La nota…",
+      "pubDate": "2026-11-03T21:21:16.000Z"
     },
     {
-      "title": "“Está bien que lo de Binance te dé miedo”: Diego Gurpegui",
-      "link": "https://www.criptonoticias.com/entrevistas/esta-bien-lo-binance-te-miedo-diego-gurpegui/",
+      "title": "Oficialismo de Argentina quiere cobrar impuestos a ganancias de CEDEAR",
+      "link": "https://www.criptonoticias.com/regulacion/oficialismo-argentina-cobrar-impuestos-ganancias-cedear/",
       "source": "CriptoNoticias",
-      "summary": "El cofundador de las empresas Improve-in y OrderToB analizó con CriptoNoticias cómo la IA está transformando la ciberseguridad y la custodia de BTC. La nota…",
-      "pubDate": "2026-11-03T16:24:21.000Z"
+      "summary": "El gobierno de Milei, que calificó a Ganancias como \"impuesto inmundo\", ahora impulsa un proyecto para gravar la venta de CEDEAR con este tributo. La nota Of…",
+      "pubDate": "2026-11-03T20:46:09.000Z"
     },
     {
-      "title": "ETF spot y ballenas de bitcoin continúan con liquidaciones parciales",
-      "link": "https://criptotendencia.com/2026/11/03/etf-spot-y-ballenas-de-bitcoin-continuan-con-liquidaciones-parciales-2/",
+      "title": "Autoalojar BTCPay no te da control del servidor si otro puede apagarlo",
+      "link": "https://www.criptonoticias.com/tecnologia/autoalojar-btcpay-control-servidor-apagado/",
+      "source": "CriptoNoticias",
+      "summary": "El robo separó cuatro controles que suelen confundirse: llaves, software, servidor y acceso a los fondos. El falló estuvo en dos. La nota Autoalojar BTCPay n…",
+      "pubDate": "2026-11-03T20:28:48.000Z"
+    },
+    {
+      "title": "Comprar bitcoin en Chile: Guía completa y actualizada (2026)",
+      "link": "https://www.criptonoticias.com/tutoriales-guias/donde-comprar-vender-bitcoin-chile/",
+      "source": "CriptoNoticias",
+      "summary": "Guía 2026 para comprar bitcoin en Chile: plataformas con pesos chilenos, comisiones verificadas, Ley Fintec y CMF, y qué declarar ante el SII. La nota Compra…",
+      "pubDate": "2026-11-03T20:22:29.000Z"
+    },
+    {
+      "title": "Flash 24/7 | La carrera cuántica avanza en cuatro frentes: chips, finanzas, bancos y blockchain",
+      "link": "https://criptotendencia.com/2026/11/03/flash-24-7-la-carrera-cuantica-avanza-en-cuatro-frentes-chips-finanzas-bancos-y-blockchain/",
       "source": "CriptoTendencia",
-      "summary": "Los ETF spot de bitcoin acumulan fuertes salidas de capital, mientras las ballenas moderan sus ventas y aumentan los retiros desde los exchan…",
-      "pubDate": "2026-11-03T16:00:10.000Z"
+      "summary": "Flash 24/7: la carrera cuántica avanza en chips, finanzas, banca de Hong Kong y cuentas poscuánticas para Ethereum y Solana.",
+      "pubDate": "2026-11-03T20:07:59.000Z"
     },
     {
-      "title": "Llegó el coco (hackearon a Binance) y ahora qué",
-      "link": "https://www.criptonoticias.com/opinion/llego-coco-hackearon-binance/",
+      "title": "Cayó Ueno Bank, el banco con más clientes de Paraguay",
+      "link": "https://www.criptonoticias.com/sucesos/cayo-ueno-bank-banco-paraguay/",
       "source": "CriptoNoticias",
-      "summary": "La amenaza con la que muchos se frotaban las manos por \"el fin\" del mercado de criptomonedas no tuvo el impacto esperado. La nota Llegó el coco (hackearon a…",
-      "pubDate": "2026-11-03T15:50:49.000Z"
-    },
-    {
-      "title": "Vitalik Buterin: «Antes tu televisor era solo un televisor, ahora podría espiarte»",
-      "link": "https://www.criptonoticias.com/tecnologia/vitalik-buterin-devcon-televisor-espiarte/",
-      "source": "CriptoNoticias",
-      "summary": "En Devcon 2026, el fundador de Ethereum propuso la \"aceleración defensiva descentralizada\" ante el avance de la vigilancia. La nota Vitalik Buterin: «Antes t…",
-      "pubDate": "2026-11-03T15:03:19.000Z"
-    },
-    {
-      "title": "CZ tras el hackeo a Binance: «No existe la seguridad al 100%»",
-      "link": "https://criptotendencia.com/2026/11/03/cz-tras-el-hackeo-a-binance-no-existe-la-seguridad-al-100/",
-      "source": "CriptoTendencia",
-      "summary": "CZ habla tras el hackeo de 6.300 millones a Binance: retiros restablecidos, fondos cubiertos y un ataque que no tocó las claves.",
-      "pubDate": "2026-11-03T14:47:51.000Z"
+      "summary": "El Banco Central del Paraguay procedió al cierre de la entidad tras detectar que su solvencia cayó a menos del 50% del mínimo legal. La nota Cayó Ueno Bank,…",
+      "pubDate": "2026-11-03T19:48:40.000Z"
     }
   ]
 }
