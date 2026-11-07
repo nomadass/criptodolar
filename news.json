@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T21:59:08.269Z",
+  "updatedAt": "2026-11-07T15:33:43.579Z",
   "items": [
     {
       "title": "Emiliano Libman en RDEco: “No creo que colapse Paraguay como colapsó Argentina en el 2001”",
@@ -9,11 +9,11 @@
       "pubDate": "2026-11-05T22:59:17.000Z"
     },
     {
-      "title": "«No hace falta vender bitcoin para obtener liquidez»: Andrés Ondarra",
-      "link": "https://www.criptonoticias.com/entrevistas/no-falta-vender-bitcoin-obtener-liquidez-andres-ondarra-nexo/",
+      "title": "Hackean el sistema de tarjetas de Gnosis Pay y exponen datos de clientes",
+      "link": "https://www.criptonoticias.com/seguridad-bitcoin/hackean-tarjetas-gnosis-pay-datos-clientes/",
       "source": "CriptoNoticias",
-      "summary": "¿Fracasó Bitcoin como medio de pago? El ejecutivo de Nexo opina sobre el futuro del activo y explica el foco en la gestión patrimonial. La nota «No hace falt…",
-      "pubDate": "2026-11-06T21:44:56.000Z"
+      "summary": "El peligro no termina con el hackeo: la información obtenida podría utilizarse para nuevos ataques contra los clientes. La nota Hackean el sistema de tarjeta…",
+      "pubDate": "2026-11-07T14:50:19.000Z"
     },
     {
       "title": "Miguel Ponce advirtió en RDEco sobre el impacto del escándalo bancario en Paraguay: “La cadena de pagos se ha cortado”",
@@ -23,11 +23,11 @@
       "pubDate": "2026-11-05T22:45:14.000Z"
     },
     {
-      "title": "EE. UU. restringe a MEXC por sus vínculos con países sancionados",
-      "link": "https://www.criptonoticias.com/regulacion/eeuu-restringe-mexc-vinculos-paises-sancionados/",
+      "title": "«Las stablecoins le dieron acceso al dólar al mundo; la tokenización es un paso más»",
+      "link": "https://www.criptonoticias.com/entrevistas/melanie-steiner-tokenizacion-onfo-finance-labitconf2026/",
       "source": "CriptoNoticias",
-      "summary": "Una parte de las operaciones investigadas involucra entidades sancionadas y plataformas que siguieron moviendo fondos pese a las restricciones. La nota EE. U…",
-      "pubDate": "2026-11-06T21:41:24.000Z"
+      "summary": "La tokenización transforma Wall Street. Melanie Steiner, de Ondo Finance profundiza en el futuro del mercado y sus desafíos actuales. La nota «Las stablecoin…",
+      "pubDate": "2026-11-07T14:29:17.000Z"
     },
     {
       "title": "RDEco: qué explica la caída de los mercados argentinos y la suba del riesgo país a casi 1.000 puntos",
@@ -37,11 +37,11 @@
       "pubDate": "2026-11-05T22:31:02.000Z"
     },
     {
-      "title": "Chile prepara regulación para impulsar un “Pix” de pagos instantáneos",
-      "link": "https://www.criptonoticias.com/regulacion/chile-prepara-regulacion-impulsar-pix-pagos-instantaneos/",
-      "source": "CriptoNoticias",
-      "summary": "Las tarjetas podrían enfrentar un nuevo competidor en Chile, mientras los usuarios ganan control sobre sus alias y transferencias. La nota Chile prepara regu…",
-      "pubDate": "2026-11-06T21:19:08.000Z"
+      "title": "Base activa Denim y pasa a producir cinco bloques canónicos por segundo",
+      "link": "https://criptotendencia.com/2026/11/07/base-activa-denim-y-pasa-a-producir-cinco-bloques-canonicos-por-segundo/",
+      "source": "CriptoTendencia",
+      "summary": "La red de Coinbase incorpora precisión en milisegundos, simplifica las integraciones y refuerza las reglas de transferencia de tokens B20.",
+      "pubDate": "2026-11-07T14:22:25.000Z"
     }
   ]
 }
