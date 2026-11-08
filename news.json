@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T15:52:41.403Z",
+  "updatedAt": "2026-11-08T21:00:14.516Z",
   "items": [
     {
       "title": "Emiliano Libman en RDEco: “No creo que colapse Paraguay como colapsó Argentina en el 2001”",
@@ -9,11 +9,11 @@
       "pubDate": "2026-11-05T22:59:17.000Z"
     },
     {
-      "title": "Reportan transacciones no autorizadas en wallets de Kelpr creadas con Google y Apple",
-      "link": "https://www.criptonoticias.com/seguridad-bitcoin/reportan-transacciones-no-autorizadas-wallets-kelpr-creadas-google/",
+      "title": "Electrum publica nueva versión con una corrección de seguridad en Lightning",
+      "link": "https://www.criptonoticias.com/tecnologia/electrum-publica-nueva-version-correccion-seguridad-lightning/",
       "source": "CriptoNoticias",
-      "summary": "Keplr suspendió el acceso con Google y Apple, mientras que su proveedor de infraestructura, Web3Auth, reconoció un problema de seguridad. La nota Reportan tr…",
-      "pubDate": "2026-11-08T15:17:12.000Z"
+      "summary": "Según las notas de la actualización, mensajes mal formados podían desconectar una wallet de su par de canal de Lightning Network. La nota Electrum publica nu…",
+      "pubDate": "2026-11-08T19:40:20.000Z"
     },
     {
       "title": "Miguel Ponce advirtió en RDEco sobre el impacto del escándalo bancario en Paraguay: “La cadena de pagos se ha cortado”",
@@ -23,11 +23,11 @@
       "pubDate": "2026-11-05T22:45:14.000Z"
     },
     {
-      "title": "Digital Asset Summit London 2026 reúne a la gran banca en torno a la tokenización",
-      "link": "https://criptotendencia.com/2026/11/08/digital-asset-summit-london-2026-reune-a-la-gran-banca-en-torno-a-la-tokenizacion/",
+      "title": "Loopscale reactiva operaciones tras sufrir un incidente de seguridad en Solana",
+      "link": "https://criptotendencia.com/2026/11/08/loopscale-reactiva-operaciones-tras-sufrir-un-incidente-de-seguridad-en-solana-2/",
       "source": "CriptoTendencia",
-      "summary": "Digital Asset Summit London 2026 reúne a BlackRock, Goldman Sachs y JPMorgan para debatir stablecoins y tokenización.",
-      "pubDate": "2026-11-08T15:06:00.000Z"
+      "summary": "Loopscale reactivó depósitos, retiros y préstamos en Solana tras un incidente de seguridad que afectó a sus bóvedas Genesis.",
+      "pubDate": "2026-11-08T18:51:00.000Z"
     },
     {
       "title": "RDEco: qué explica la caída de los mercados argentinos y la suba del riesgo país a casi 1.000 puntos",
@@ -37,11 +37,11 @@
       "pubDate": "2026-11-05T22:31:02.000Z"
     },
     {
-      "title": "Devcon 8 cierra en Mumbai y la próxima edición ya tiene destino: Lisboa",
-      "link": "https://criptotendencia.com/2026/11/08/devcon-8-cierra-en-mumbai-y-la-proxima-edicion-ya-tiene-destino-lisboa/",
-      "source": "CriptoTendencia",
-      "summary": "La Devcon 8 terminó en Mumbai con Vitalik, la meta post-cuántica de 2028 y Lisboa confirmada como sede de la próxima edición en 2027.",
-      "pubDate": "2026-11-08T11:35:00.000Z"
+      "title": "LNbits pide a todos sus usuarios detener sus servidores tras una “oleada de ataques”",
+      "link": "https://www.criptonoticias.com/seguridad-bitcoin/lnbits-pide-a-todos-sus-usuarios-detener-sus/",
+      "source": "CriptoNoticias",
+      "summary": "LNbits, una infraestructura para administrar wallets de la red Lightning Network, anunció varios parches de seguridad a implementar. La nota LNbits pide a to…",
+      "pubDate": "2026-11-08T18:48:10.000Z"
     }
   ]
 }
