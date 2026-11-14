@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T01:21:52.194Z",
+  "updatedAt": "2026-11-14T15:40:36.840Z",
   "items": [
     {
       "title": "Emiliano Libman en RDEco: “No creo que colapse Paraguay como colapsó Argentina en el 2001”",
@@ -9,11 +9,11 @@
       "pubDate": "2026-11-05T22:59:17.000Z"
     },
     {
-      "title": "La IA pone a prueba a la Fed y podría cambiar el rumbo del precio de bitcoin",
-      "link": "https://www.criptonoticias.com/mercados/ia-pone-a-prueba-a-fed-podria-cambiar-bitcoin/",
+      "title": "Strategy pierde USD 7.000 millones en el papel con la caída del precio de bitcoin",
+      "link": "https://www.criptonoticias.com/mercados/strategy-pierde-usd-7000-millones-caida-precio-bitcoin/",
       "source": "CriptoNoticias",
-      "summary": "La promesa de una economía más productiva tiene un coste: más demanda energética y una competencia que ya alcanza a BTC. La nota La IA pone a prueba a la Fed…",
-      "pubDate": "2026-11-13T23:19:03.000Z"
+      "summary": "A pesar de la caída del precio, la compañía realizó nuevas compras de bitcoin por 1.036 BTC entre el 2 y el 8 de noviembre. La nota Strategy pierde USD 7.000…",
+      "pubDate": "2026-11-14T15:39:43.000Z"
     },
     {
       "title": "Miguel Ponce advirtió en RDEco sobre el impacto del escándalo bancario en Paraguay: “La cadena de pagos se ha cortado”",
@@ -23,11 +23,11 @@
       "pubDate": "2026-11-05T22:45:14.000Z"
     },
     {
-      "title": "Bitcoin tiene una ventaja frente a la IA por su diseño, dice Saylor",
-      "link": "https://www.criptonoticias.com/comunidad/bitcoin-tiene-ventaja-frente-a-ia-su-diseno-saylor/",
+      "title": "Mineros de Bitcoin respiran tras caída de 9% de la dificultad",
+      "link": "https://www.criptonoticias.com/mineria/mineros-bitcoin-respiran-tras-caida-9-dificultad/",
       "source": "CriptoNoticias",
-      "summary": "Si los hackers pueden encontrar fallas más rápido, bancos y exchanges tendrán que aprender a detectar sus propias vulnerabilidades primero. La nota Bitcoin t…",
-      "pubDate": "2026-11-13T22:53:58.000Z"
+      "summary": "El ajuste superó la previsión del 7,5 % de mempool.space, mientras el hashrate semanal de Bitcoin se mantiene cerca de 905 EH/s. La nota Mineros de Bitcoin r…",
+      "pubDate": "2026-11-14T15:34:36.000Z"
     },
     {
       "title": "RDEco: qué explica la caída de los mercados argentinos y la suba del riesgo país a casi 1.000 puntos",
@@ -37,11 +37,11 @@
       "pubDate": "2026-11-05T22:31:02.000Z"
     },
     {
-      "title": "La seguridad institucional de las criptomonedas va más allá de las wallets",
-      "link": "https://www.criptonoticias.com/sin-categoria/seguridad-institucional-criptomonedas-va-mas-alla-wallets/",
+      "title": "Ledger te da la llave, pero no el control sobre tu privacidad",
+      "link": "https://www.criptonoticias.com/tecnologia/ledger-llave-control-privacidad/",
       "source": "CriptoNoticias",
-      "summary": "Una transferencia rápida no garantiza disponibilidad inmediata y un monedero segura tampoco elimina los riesgos de toda la infraestructura. La nota La seguri…",
-      "pubDate": "2026-11-13T22:45:00.000Z"
+      "summary": "Un desarrollador denunció que el kit de Ledger para wallets reporta cada firma. La empresa explicó la consulta a sus servidores, pero no ese reporte. La nota…",
+      "pubDate": "2026-11-14T12:00:00.000Z"
     }
   ]
 }
