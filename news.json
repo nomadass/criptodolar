@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T15:40:36.840Z",
+  "updatedAt": "2026-11-14T21:14:33.407Z",
   "items": [
     {
       "title": "Emiliano Libman en RDEco: “No creo que colapse Paraguay como colapsó Argentina en el 2001”",
@@ -9,11 +9,11 @@
       "pubDate": "2026-11-05T22:59:17.000Z"
     },
     {
-      "title": "Strategy pierde USD 7.000 millones en el papel con la caída del precio de bitcoin",
-      "link": "https://www.criptonoticias.com/mercados/strategy-pierde-usd-7000-millones-caida-precio-bitcoin/",
-      "source": "CriptoNoticias",
-      "summary": "A pesar de la caída del precio, la compañía realizó nuevas compras de bitcoin por 1.036 BTC entre el 2 y el 8 de noviembre. La nota Strategy pierde USD 7.000…",
-      "pubDate": "2026-11-14T15:39:43.000Z"
+      "title": "Hoskinson cuestiona a la Cardano Foundation y a EMURGO por la baja adopción de ADA",
+      "link": "https://criptotendencia.com/2026/11/14/hoskinson-cardano-adopcion-ada/",
+      "source": "CriptoTendencia",
+      "summary": "El fundador defiende el papel de Midnight en Cardano y señala a Leios como el último gran hito técnico a cargo de Input Output.",
+      "pubDate": "2026-11-14T19:12:34.000Z"
     },
     {
       "title": "Miguel Ponce advirtió en RDEco sobre el impacto del escándalo bancario en Paraguay: “La cadena de pagos se ha cortado”",
@@ -23,11 +23,11 @@
       "pubDate": "2026-11-05T22:45:14.000Z"
     },
     {
-      "title": "Mineros de Bitcoin respiran tras caída de 9% de la dificultad",
-      "link": "https://www.criptonoticias.com/mineria/mineros-bitcoin-respiran-tras-caida-9-dificultad/",
+      "title": "Los ETF de bitcoin pierden USD 2.350 millones en dos semanas: ¿qué implica para BTC?",
+      "link": "https://www.criptonoticias.com/mercados/etf-bitcoin-pierden-usd-2350-millones-dos-semanas-bitcoin/",
       "source": "CriptoNoticias",
-      "summary": "El ajuste superó la previsión del 7,5 % de mempool.space, mientras el hashrate semanal de Bitcoin se mantiene cerca de 905 EH/s. La nota Mineros de Bitcoin r…",
-      "pubDate": "2026-11-14T15:34:36.000Z"
+      "summary": "El IBIT de BlackRock lidera las salidas de los ETF de bitcoin con 11 días seguidos de retiros, mientras el precio de BTC cayó bajo los USD 70.000 La nota Los…",
+      "pubDate": "2026-11-14T18:28:35.000Z"
     },
     {
       "title": "RDEco: qué explica la caída de los mercados argentinos y la suba del riesgo país a casi 1.000 puntos",
@@ -37,11 +37,11 @@
       "pubDate": "2026-11-05T22:31:02.000Z"
     },
     {
-      "title": "Ledger te da la llave, pero no el control sobre tu privacidad",
-      "link": "https://www.criptonoticias.com/tecnologia/ledger-llave-control-privacidad/",
-      "source": "CriptoNoticias",
-      "summary": "Un desarrollador denunció que el kit de Ledger para wallets reporta cada firma. La empresa explicó la consulta a sus servidores, pero no ese reporte. La nota…",
-      "pubDate": "2026-11-14T12:00:00.000Z"
+      "title": "Una dirección válida no confirma que la red de envío sea la correcta",
+      "link": "https://criptotendencia.com/2026/11/14/una-direccion-valida-no-confirma-que-la-red-de-envio-sea-la-correcta/",
+      "source": "CriptoTendencia",
+      "summary": "Antes de enviar criptomonedas, comprueba la compatibilidad del activo y la red con el servicio receptor para evitar errores costosos.",
+      "pubDate": "2026-11-14T17:28:29.000Z"
     }
   ]
 }
