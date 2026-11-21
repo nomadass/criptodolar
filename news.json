@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T02:03:07.103Z",
+  "updatedAt": "2026-11-21T16:41:48.771Z",
   "items": [
     {
       "title": "Emiliano Libman en RDEco: “No creo que colapse Paraguay como colapsó Argentina en el 2001”",
@@ -9,11 +9,11 @@
       "pubDate": "2026-11-05T22:59:17.000Z"
     },
     {
-      "title": "Bots acechan la red Bitcoin para robar fondos de wallets en minutos",
-      "link": "https://www.criptonoticias.com/seguridad-bitcoin/bots-acechan-red-bitcoin-robar-fondos-wallets-minutos/",
-      "source": "CriptoNoticias",
-      "summary": "Un error aparentemente pequeño permitió recuperar miles de claves. Lo más inquietante es que el problema cruzó seis redes. La nota Bots acechan la red Bitcoi…",
-      "pubDate": "2026-11-21T01:01:33.000Z"
+      "title": "¿Adónde va el dinero cuando caen las bolsas, el oro y bitcoin?",
+      "link": "https://criptotendencia.com/2026/11/21/adonde-va-el-dinero-cuando-caen-bolsas-oro-y-bitcoin/",
+      "source": "CriptoTendencia",
+      "summary": "Los bonos del Tesoro repuntan, los fondos monetarios pierden activos y los rescates de stablecoins apuntan al efectivo bancario.",
+      "pubDate": "2026-11-21T16:28:53.000Z"
     },
     {
       "title": "Miguel Ponce advirtió en RDEco sobre el impacto del escándalo bancario en Paraguay: “La cadena de pagos se ha cortado”",
@@ -23,11 +23,11 @@
       "pubDate": "2026-11-05T22:45:14.000Z"
     },
     {
-      "title": "Usan estreno del videojuego GTA VI para atraer víctimas y vaciar wallets de criptomonedas",
-      "link": "https://www.criptonoticias.com/seguridad-bitcoin/videojuego-gta-atraer-victimas-criptomonedas-estafas/",
+      "title": "Una clave y dos bots drenaron el pool de Reental: Una lección para todo DeFi",
+      "link": "https://www.criptonoticias.com/seguridad-bitcoin/clave-dos-bots-drenaron-pool-reental-leccion-todo/",
       "source": "CriptoNoticias",
-      "summary": "¿Cómo pueden robar tus fondos sin conocer tu contraseña? La respuesta está en las transacciones que te piden aprobar. La nota Usan estreno del videojuego GTA…",
-      "pubDate": "2026-11-21T00:35:18.000Z"
+      "summary": "El caso expone el peligro de un punto único de control en activos tokenizados. Una firma sin frenos técnicos bastó para retirar USD 454.825. La nota Una clav…",
+      "pubDate": "2026-11-21T16:22:12.000Z"
     },
     {
       "title": "RDEco: qué explica la caída de los mercados argentinos y la suba del riesgo país a casi 1.000 puntos",
@@ -37,11 +37,11 @@
       "pubDate": "2026-11-05T22:31:02.000Z"
     },
     {
-      "title": "Resumen semanal NFT: cambios en gaming, avances en IA y migraciones de activos",
-      "link": "https://criptotendencia.com/2026/11/21/resumen-semanal-nft-cambios-en-gaming-avances-en-ia-y-migraciones-de-activos-2/",
+      "title": "¿Puede blockchain poner fin a la reventa abusiva y las entradas falsas?",
+      "link": "https://criptotendencia.com/2026/11/21/puede-blockchain-poner-fin-a-la-reventa-abusiva-y-las-entradas-falsas/",
       "source": "CriptoTendencia",
-      "summary": "El mercado NFT atraviesa una nueva etapa, con videojuegos que replantean sus modelos, avances tecnológicos y cambios en sus ecosistemas.",
-      "pubDate": "2026-11-21T00:02:00.000Z"
+      "summary": "La tecnología blockchain propone transformar la venta de entradas, combatir la reventa abusiva y reducir los fraudes en eventos deportivos y…",
+      "pubDate": "2026-11-21T15:57:11.000Z"
     }
   ]
 }
